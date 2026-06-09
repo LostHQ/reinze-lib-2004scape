@@ -19,7 +19,7 @@ pub fn noburn(s: &Source) -> Result<Vec<String>> {
 
     Ok(vec![
         format!("{} {}", s.l("NoBurn"), output.join(&s.c1(" | "))),
-        s.p("Fire | Range"),
+        s.p("Fire | Range | Gauntlets"),
     ])
 }
 
