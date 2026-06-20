@@ -1,5 +1,6 @@
 extern crate core;
 
+mod anagram;
 mod boost;
 mod common;
 mod coords;
@@ -62,6 +63,7 @@ pub extern "C" fn exported(context: *const PluginContext) -> *mut c_char {
             | "smith" | "mining" | "mine" | "herblore" | "herb" | "agility" | "agil"
             | "thieving" | "thief" | "runecraft" | "rc" => stats::lookup(source),
             "boost" | "boosts" => boost::lookup(&source),
+            "anagram" => anagram::lookup(&source),
             "coords" | "coord" | "clue" => coords::lookup(&source),
             "combat" | "cmb" => stats::combat(source),
             "experience" | "xperience" | "exp" | "xp" => xp::lookup(&source),
@@ -72,6 +74,7 @@ pub extern "C" fn exported(context: *const PluginContext) -> *mut c_char {
             "track" => track::lookup(source),
             "tracksnapshot" => track::snapshot_all(),
             "help" => Ok(r"boost
+anagram
 coords
 combat[N]
 exp
@@ -85,6 +88,7 @@ track[N]"
                 .map(|s| s.to_string())
                 .collect::<Vec<String>>()),
             "" => Ok(r"boosts?
+anagram
 (coords?|clue)
 co?mb(at)?\d*$
 x?e?xp(erience)?
