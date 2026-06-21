@@ -31,7 +31,7 @@
 
 use anyhow::{Context, Result, anyhow};
 use mysql::prelude::Queryable;
-use mysql::{PooledConn, params};
+use mysql::{Conn, params};
 
 use common::database;
 
@@ -61,13 +61,13 @@ pub struct Stats {
     pub personal_record: u32,
 }
 
-fn conn() -> Result<PooledConn> {
+fn conn() -> Result<Conn> {
     let mut c = database::connect().map_err(|e| anyhow!("database connection failed: {}", e))?;
     ensure_schema(&mut c)?;
     Ok(c)
 }
 
-fn ensure_schema(c: &mut PooledConn) -> Result<()> {
+fn ensure_schema(c: &mut Conn) -> Result<()> {
     c.query_drop(
         "CREATE TABLE IF NOT EXISTS trivia_game (
             channel     VARCHAR(64)  NOT NULL PRIMARY KEY,
