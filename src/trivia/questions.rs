@@ -1749,8 +1749,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ),
     ("Monster name: Sab__-_______ Kya__?", "Sabre-toothed kyatt"),
     ("Monster name: Sar______ Wiz___?", "Saradomin Wizard"),
-    ("Monster name: Sca_____ Lan___?", "Scabaras Lancer"),
-    ("Monster name: Sca_____ Ran___?", "Scabaras Ranger"),
     ("Monster name: Sca___ Ma__?", "Scarab mage"),
     ("Monster name: Sco_____?", "Scorpion"),
     ("Monster name: S__ Tr___?", "Sea troll"),
