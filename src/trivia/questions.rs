@@ -1433,7 +1433,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("Quest name: Elemental ________?", "Workshop"),
     ("Quest name: Enakhra's ______?", "Lament"),
     ("Quest name: Garden of ___________?", "Tranquility"),
-    ("Quest name: Ghosts ____?", "Ahoy"),
     ("Quest name: Haunted ____?", "Mine"),
     ("Quest name: Hazeel ____?", "Cult"),
     ("Quest name: Holy _____?", "Grail"),
@@ -1916,16 +1915,8 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("What can you mine at level 35 Mining?", "sandstone"),
     ("What level Agility is needed to do the Rogue's Den?", "50"),
     (
-        "What is the First part of the Ghostly Robes you receive?",
-        "top",
-    ),
-    (
         "What Spell has the examine info of 'Smelts Ore without a Furnace'?",
         "superheat item",
-    ),
-    (
-        "What is the Last part of the Ghostly Robes you receive?",
-        "cape",
     ),
     ("Name this god spell C____ O_ G_____.", "Claws of Guthix"),
     (
