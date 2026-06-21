@@ -7,6 +7,7 @@ mod common;
 mod coords;
 mod level;
 mod noburn;
+mod players;
 mod rsn;
 mod speakto;
 mod spell;
@@ -36,6 +37,7 @@ le?ve?l
 (no)?burn
 spell
 speak(to)?
+^players?$
 rsn\d*
 stats
 overall
@@ -120,6 +122,7 @@ pub extern "C" fn exported(context: *const PluginContext) -> *mut c_char {
             "noburn" | "burn" => noburn::noburn(&source),
             "spell" => spell::lookup(&source),
             "speakto" | "speak" => speakto::lookup(&source),
+            "players" => players::lookup(&source),
             "rsn" => rsn::process(source),
             "track" => track::lookup(source),
             "tracksnapshot" => track::snapshot_all(),
@@ -140,6 +143,7 @@ level
 noburn
 spell
 speakto
+players
 rsn[N]
 stats[N]
 track[N]
