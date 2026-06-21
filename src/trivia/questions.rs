@@ -236,7 +236,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ),
     ("What thieving level is required to thieve a Guard?", "40"),
     ("How much bank space do members have?", "496"),
-    ("What prayer can you use at level 49?", "Redemption"),
     (
         "What Firemaking level is required to light Mining Helmets?",
         "65",
@@ -1011,9 +1010,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
         "Protect from Missiles",
     ),
     ("What is the name of level 43 prayer?", "Protect from Melee"),
-    ("What is the name of level 46 prayer?", "Retribution"),
-    ("What is the name of level 49 prayer?", "Redemption"),
-    ("What is the name of level 52 prayer?", "Smite"),
     ("What crafting level is needed to make a Ruby Amulet?", "50"),
     (
         "What crafting level is needed to make a Sapphire Amulet?",
@@ -1157,7 +1153,7 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("What is the name of the chain mail shop?", "Wayne's Chains"),
     (
         "What is the name of the archery store in Varrock?",
-        "Lowe's Archery Store",
+        "Lowe's Archery Emporium",
     ),
     (
         "Who runs the eastern anvils and a small store in Varrock?",
@@ -1488,7 +1484,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("Minigame name: Tears of ______?", "Guthix"),
     ("Minigame name: Treasure ______?", "trails"),
     ("Minigame name: Trouble _______?", "Brewing"),
-    ("Minigame name: Vine_______?", "sweeper"),
     ("Monster name: Aberrant _______?", "spectre"),
     ("Monster name: Arm_____ zom___?", "Armoured zombie"),
     ("Monster name: Bab_ bla__ dra___?", "Baby black dragon"),
@@ -1534,9 +1529,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("Monster name: Chi____?", "Chicken"),
     ("Monster name: Cho______ Keb___?", "Chocolate kebbit"),
     ("Monster name: Cho___ Bir_?", "Chompy Bird"),
-    ("Monster name: Coc______ Dro__?", "Cockroach drone"),
-    ("Monster name: Coc______ Sol____?", "Cockroach soldier"),
-    ("Monster name: Coc______ Wor___?", "Cockroach worker"),
     ("Monster name: Cop___ Lon_____?", "Copper longtail"),
     ("Monster name: Cra_____ Han_?", "Crawling Hand"),
     ("Monster name: Cri____ Swi__?", "Crimson swift"),
@@ -1626,7 +1618,7 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("Monster name: Kal_____ Wor___?", "Kalphite Worker"),
     ("Monster name: Kha____ Com______?", "Khazard commander"),
     ("Monster name: Kha____ Gua__?", "Khazard Guard"),
-    ("Monster name: Kha____ Or__?", "Khazard Ogre"),
+    ("Monster name: Kha____ Og__?", "Khazard Ogre"),
     ("Monster name: Kha____ Sco_____?", "Khazard Scorpion"),
     ("Monster name: Kha____ Tro____?", "Khazard trooper"),
     ("Monster name: Kha____ War____?", "Khazard warlord"),
@@ -1675,10 +1667,9 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("Monster name: Na__ Bea__?", "Nail beast"),
     ("Monster name: Nec______?", "Nechryael"),
     ("Monster name: Nec________?", "Necromancer"),
-    ("Monster name: Or__?", "Ogre"),
-    ("Monster name: Or__ Gu___?", "Ogre guard"),
-    ("Monster name: Or__ Mer_____?", "Ogre merchant"),
-    ("Monster name: Or__ Sha___?", "Ogre Shaman"),
+    ("Monster name: Og__?", "Ogre"),
+    ("Monster name: Og__ Gu___?", "Ogre guard"),
+    ("Monster name: Og__ Mer_____?", "Ogre merchant"),
     ("Monster name: O__?", "Orc"),
     ("Monster name: Oth_________ Be___?", "Otherworldly being"),
     ("Monster name: Out___?", "Outlaw"),
@@ -1801,7 +1792,7 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("Monster name: Zog__?", "Zogre"),
     ("Monster name: Zom___?", "Zombie"),
     ("Monster name: Zom___ Ha__?", "Zombie hand"),
-    ("Monster name: Zom___ Or__?", "Zombie Ogre"),
+    ("Monster name: Zom___ Og__?", "Zombie Ogre"),
     ("Monster name: Zom___ R__?", "Zombie rat"),
     ("Monster name: Zom___ Sw__?", "Zombie swab"),
     ("Monster name: Zyg_____?", "Zygomite"),
@@ -2073,10 +2064,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
         "Easter ring",
     ),
     (
-        "The most recently created guild supports what skill?",
-        "Runecrafting",
-    ),
-    (
         "How many stone items are required to charge a Pharaoh's Sceptre?",
         "12",
     ),
@@ -2100,10 +2087,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     (
         "Which quest must you complete to be able to smith pickaxes?",
         "Perils of ice mountain",
-    ),
-    (
-        "What level is required to fish sharks with your hands?",
-        "96",
     ),
     ("A pack yak can hold how many items?", "30"),
     (
@@ -2265,4 +2248,5 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("Who will take your long bones?", "Barlak"),
     ("True or False: \"Seaweed\" is edible?", "False"),
     ("Quest name: Big chompy bird _______?", "Hunting"),
+    ("Monster name: Og__ Sha___?", "Ogre Shaman"),
 ];
