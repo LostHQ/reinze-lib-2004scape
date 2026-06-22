@@ -49,19 +49,11 @@ fn format_xp_delta(delta: u32) -> String {
     }
 }
 
-pub fn format_changes(
-    changes: &[Change],
-    source: &Source,
-    rsn: &str,
-    duration_str: &str,
-) -> Vec<String> {
-    let display_rsn = rsn.replace("_", " ");
-
+pub fn format_changes(changes: &[Change], source: &Source, duration_str: &str) -> Vec<String> {
     if changes.is_empty() {
         return vec![format!(
-            "{} {} {}: {}",
+            "{} {}: {}",
             source.l("Track"),
-            source.p(&display_rsn),
             source.c2(&format!("({})", duration_str)),
             source.c1("No changes")
         )];
@@ -90,9 +82,8 @@ pub fn format_changes(
         .collect();
 
     vec![format!(
-        "{} {} {}: {}",
+        "{} {}: {}",
         source.l("Track"),
-        source.p(&display_rsn),
         source.c2(&format!("({})", duration_str)),
         parts.join(&source.c2(" | "))
     )]
@@ -154,7 +145,7 @@ pub fn lookup(source: Source) -> Result<Vec<String>> {
 
     let old_listings = parse_hiscores_raw(&old_raw)?;
     let changes = diff_listings(&old_listings, &live_listings);
-    Ok(format_changes(&changes, &source, &rsn, &duration_str))
+    Ok(format_changes(&changes, &source, &duration_str))
 }
 
 /// Called by the bot timer system every 6h.
