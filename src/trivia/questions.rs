@@ -1383,10 +1383,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
         "4",
     ),
     (
-        "In Wanted! quest what god spell does Sollus Delagar use?",
-        "Flames of Zamorak",
-    ),
-    (
         "What prayer level must you have to Bless Holy and Unholy Symbols?",
         "50",
     ),
@@ -1871,10 +1867,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     (
         "What Material do you need to make an Enchanted Lyre?",
         "golden wool",
-    ),
-    (
-        "Completing which quest would let you use the Enchanted Key?",
-        "making history",
     ),
     ("What is the first RuneScape Rule?", "no offensive language"),
     ("What color is the Gem in Glarial's Amulet?", "green"),
