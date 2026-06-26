@@ -215,10 +215,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("What level is a Man?", "2"),
     ("Who is believed to be Zamorak's son?", "Iban"),
     ("Which quest is the longest?", "One Small Favour"),
-    (
-        "In which minigame do you catch drops of water?",
-        "Tears of Guthix",
-    ),
     ("What agility is required to do Regicide?", "56"),
     ("What items must you collect for Imp Catcher?", "beads"),
     ("What is the best RuneScape client ever made?", "SwiftKit"),
@@ -466,10 +462,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     (
         "What level thieving is required to pickpocket Warriors?",
         "25",
-    ),
-    (
-        "What quest is needs to be completed before you can wield Crystal Equipment?",
-        "Roving Elves",
     ),
     ("How many total skills are there?", "24"),
     ("How many seconds does a Bind hold your target?", "5"),
@@ -1318,10 +1310,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ),
     ("Complete the quest name: Getrude's ___", "cat"),
     (
-        "In the Roving Elves quest, what level is the moss giant you fight?",
-        "84",
-    ),
-    (
         "What weapon is given to you to kill Viyeldi in Legends Quest?",
         "Black Dagger",
     ),
@@ -1387,11 +1375,9 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("Quest name: Nature ______?", "Spirit"),
     ("Quest name: One small ______?", "Favour"),
     ("Quest name: Recruitment _____?", "Drive"),
-    ("Quest name: Roving _____?", "Elves"),
     ("Quest name: Scorpion _______?", "Catcher"),
     ("Quest name: Shades of ____'___?", "Mort'ton"),
     ("Quest name: Sheep ______?", "Herder"),
-    ("Quest name: Tears of ______?", "Guthix"),
     ("Quest name: Temple of ____?", "Ikov"),
     ("Quest name: Throne of ___________?", "Miscellania"),
     ("Quest name: Tree gnome _______?", "Village"),
@@ -1403,7 +1389,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
     ("Minigame name: Brimhaven Agility _____?", "Arena"),
     ("Minigame name: Fishing _______?", "Trawler"),
     ("Minigame name: Gnome ____?", "Ball"),
-    ("Minigame name: Tears of ______?", "Guthix"),
     ("Minigame name: Treasure ______?", "trails"),
     ("Monster name: Aberrant _______?", "spectre"),
     ("Monster name: Arm_____ zom___?", "Armoured zombie"),
@@ -1737,10 +1722,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
         "blue and white",
     ),
     (
-        "What is the giant snake's name who guards the entrance to the Tears of Guthix?",
-        "juna",
-    ),
-    (
         "What Material do you need to make an Enchanted Lyre?",
         "golden wool",
     ),
@@ -2023,10 +2004,6 @@ pub const QUESTIONS: &[(&str, &str)] = &[
         "4",
     ),
     ("You get gilded items from what?", "Treasure trails"),
-    (
-        "The snake guarding the Tears of Guthix mini-game is named?",
-        "Juna",
-    ),
     (
         "You need to put tree seeds in a ____ before planting them.",
         "Plant pot",

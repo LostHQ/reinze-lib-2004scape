@@ -85,7 +85,6 @@ What level Runecrafting do you need to make Nature runes?|44
 What level is a Man?|2
 Who is believed to be Zamorak's son?|Iban
 Which quest is the longest?|One Small Favour
-In which minigame do you catch drops of water?|Tears of Guthix
 What agility is required to do Regicide?|56
 What items must you collect for Imp Catcher?|beads
 What is the best RuneScape client ever made?|SwiftKit
@@ -178,7 +177,6 @@ Prayer: D_____ t______ p_____|Drains targets prayer
 What does an examined beehive say?|Where bees live
 What is your hitpoints level throughout tutorial island?|10
 What level thieving is required to pickpocket Warriors?|25
-What quest is needs to be completed before you can wield Crystal Equipment?|Roving Elves
 How many total skills are there?|24
 How many seconds does a Bind hold your target?|5
 How many casts must you use before you can use a God Spell outside of the arena?|100
@@ -590,7 +588,6 @@ Gilded armor has the same stats as what?|rune
 How many Halloween masks are there?|3
 If you have this level in Attack, Strength, and Defence, you will be 100 combat. What level is it?|80
 Complete the quest name: Getrude's ___|cat
-In the Roving Elves quest, what level is the moss giant you fight?|84
 What weapon is given to you to kill Viyeldi in Legends Quest?|Black Dagger
 What ring turns you into a rock?|Ring of Stone
 As well as Teleporting you to various places, the Amulet of Glory also increases the chance of getting a ___ while mining.|Gem
@@ -627,11 +624,9 @@ Quest name: Murder _______?|Mystery
 Quest name: Nature ______?|Spirit
 Quest name: One small ______?|Favour
 Quest name: Recruitment _____?|Drive
-Quest name: Roving _____?|Elves
 Quest name: Scorpion _______?|Catcher
 Quest name: Shades of ____'___?|Mort'ton
 Quest name: Sheep ______?|Herder
-Quest name: Tears of ______?|Guthix
 Quest name: Temple of ____?|Ikov
 Quest name: Throne of ___________?|Miscellania
 Quest name: Tree gnome _______?|Village
@@ -643,7 +638,6 @@ Minigame name: Tai Bwo Wannai _______?|Cleanup
 Minigame name: Brimhaven Agility _____?|Arena
 Minigame name: Fishing _______?|Trawler
 Minigame name: Gnome ____?|Ball
-Minigame name: Tears of ______?|Guthix
 Minigame name: Treasure ______?|trails
 Monster name: Aberrant _______?|spectre
 Monster name: Arm_____ zom___?|Armoured zombie
@@ -937,7 +931,6 @@ Name this god spell C____ O_ G_____.|Claws of Guthix
 What are the Mage Robes called where you need to get Bark, Fine Cloth and Money for the Wizard to make?|splitbark
 What is the last Strike spell?|fire strike
 What two Mystic sets are sold in the Magic Guild?|blue and white
-What is the giant snake's name who guards the entrance to the Tears of Guthix?|juna
 What Material do you need to make an Enchanted Lyre?|golden wool
 What is the first RuneScape Rule?|no offensive language
 What color is the Gem in Glarial's Amulet?|green
@@ -1038,7 +1031,6 @@ What is the high-alch value of a green dragonhide body?|4680
 A toadflax seed will yield what herbs?|toadflax
 You need how many pages to complete a God Prayer book?|4
 You get gilded items from what?|Treasure trails
-The snake guarding the Tears of Guthix mini-game is named?|Juna
 You need to put tree seeds in a ____ before planting them.|Plant pot
 What item increases growth percentage of herbs?|compost
 The first re-charge of a crystal bow costs how much?|900k
