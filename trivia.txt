@@ -3,18 +3,18 @@ What level mining do you need to mine coal?|30
 What level is Elvarg?|83
 What level is a Black Knight?|33
 How many Quest Points do you need for the Champion's Guild?|32
-What is smithed with copper to make bronze?|tin
+What is smelted with copper to make bronze?|tin
 What is the name of the ore involved in "The Knight's Sword" quest?|blurite
-What is the first type of weapon you can make in each metal?|dagger
+What is the first type of weapon you can smith with each metal?|dagger
 True or false: Dragon can be smithed.|false
 What beer will raise your mining and smithing level by 1 each?|Dwarven Stout
 What mining level do you need to get into the Mining Guild?|60
 What city do you start in when you arrive from Tutorial Island?|Lumbridge
 What is the city north of the Barbarian Village?|Edgeville
 How many gp are equal to one K?|1000
-How many items do you keep after you have been killed without a skull?|3
-Who made RuneScape?|Andrew Gower
-When you die where do you normally respawn from?|Lumbridge
+How many items do you keep after you have been killed without a skull or protection prayers?|3
+Who founded RuneScape?|Andrew Gower
+When you die where do you normally respawn?|Lumbridge
 What is the best armor a non-member can use?|rune
 How many gp do you have to pay to get to Karmaja?|30
 What will ruin the potion in the Black Knights Fortress quest?|cabbage
@@ -25,7 +25,7 @@ What is the dragons name in the Dragon Slayer quest?|Elvarg
 When did RuneScape 3D Beta come out?|December 1
 What fishing level do you need for Heroes' Quest?|53
 What is the highest combat level in RuneScape Classic?|123
-What is the highest combat level in RuneScape 2?|138
+What is the highest combat level in RuneScape 2?|126
 Where can you find the chainmail shop?|Falador
 What cooking level is required to bake bread?|1
 At what Agility level can you play gnomeball?|1
@@ -35,28 +35,24 @@ What is the name of the river that goes through the desert?|River Elid
 What does it say when you examine a Ruined Pillar?|An old crumbled pillar
 What can you steal from a scimitar stall?|scimitars
 What magic spell can you do at level 45?|Camelot Teleport
-What is the maximum total level?|2376
+What is the maximum total level?|1881
 At what defence level can you wear a rune platebody?|40
 What defence level is needed to wear Mithril armour?|20
-What crafting level is required to make Sapphire Amulet?|24
+What crafting level is required to make a Sapphire Amulet?|24
 What level is a dark warrior?|8
 Spell: b____ t_ b______|bones to bananas
 At what mining level can you mine Silver?|20
 What level is an Ice Giant?|53
 What is the dragon dagger special called?|puncture
 What level is a knight of Ardougne?|46
-How many weapons have special attacks?|19
-On what day do updates USUALLY take place?|Monday
-How many minutes does a potato take to grow?|35
+How many weapons have special attacks?|11
 What level is a Hill Giant?|28
 What prayer can you use at level 1?|Thick Skin
 What cooking level is required to cook Dolphin?|none
-What does it say when you examine a Tiara Mould?|A mould for tiaras
-What Runecrafting level is required to use a Giant Pouch?|75
 What do you need to make leather?|Cow hide
 What ranging level must you have in order to use a dwarf cannon?|1
 RuneScape History: In 2002, RuneScape member's version was released. In what month was it released?|February
-What special ore is requires to make the sword in the Knight’s Sword Quest?|Blurite
+What special ore is requires to make the sword in the Knightâ€™s Sword Quest?|Blurite
 How many gp must you get for your money to be labeled "K" instead of "GP" in your inventory?|100000
 What percent will a Super Attack Potion increase your attack?|20
 What percent will a Super Strength Potion increase your attack?|0
@@ -69,9 +65,8 @@ What type of trees can you cut at level 1 Woodcutting?|normal
 At what smithing level can you smith a Steel Scimitar?|35
 How much experience do you need to get a skill to level 2?|83
 How many Hitpoints does an Ice Warrior have?|59
-What level are Steel Dragons?|246
 What is the maximum hit of a Magic Shortbow special added up?|46
-What does the examination of the archer close to Draynor say?|She looks quite experienced
+What does the examination of the archer close to Draynor say?|She looks quite experienced.
 What prayer can you use at level 10?|Rock Skin
 Where do you buy halberds?|Isafdar
 What type of rune do you need for Strike Spells?|Mind
@@ -84,21 +79,16 @@ What level Runecrafting do you need to make Law runes?|54
 What level Runecrafting do you need to make Nature runes?|44
 What level is a Man?|2
 Who is believed to be Zamorak's son?|Iban
-Which quest is the longest?|One Small Favour
 What agility is required to do Regicide?|56
 What items must you collect for Imp Catcher?|beads
-What is the best RuneScape client ever made?|SwiftKit
-Where does Evil Bob teleport you?|ScapeRune
-What do you do to the fish on Evil Bobs island?|Uncook
 Where is the Magic Guild?|Yanille
 What is the only skill in which you cannot do or make anything at level 1?|Herblore
 What thieving level is required to thieve a Guard?|40
-How much bank space do members have?|496
-What Firemaking level is required to light Mining Helmets?|65
+How much bank space do members have?|240
 Name this God Spell - S________ S_____|Saradomin Strike
 What magic spell lets you teleport someone else?|Teleother
 In the Shilo Village quest, you need to get _____ of the Dead|Beads
-What can you cut at level 60 woodcutting?|Yew
+What can you cut at level 60 woodcutting?|Yew trees
 How much does the Zamorak Book give to all attack stats?|8
 What item do you need to pick up a fire feather?|Ice Gloves
 What crafting level is required to make a dragonstone amulet?|80
@@ -419,7 +409,7 @@ How many coal do you need for Doric's quest?|0
 How many iron do you need for Doric's quest?|2
 How many clay do you need for Doric's quest?|6
 How many copper do you need for Doric's quest?|4
-What is the name of Ernest’s Wife?|Veronica
+What is the name of Ernestâ€™s Wife?|Veronica
 Who do you talk to in the vampire quest?|Morgan
 Who sells rune plate mail?|Oziach
 In the dragon quest, who gives you a riddle on top of ice mountain?|Oracle
@@ -493,7 +483,7 @@ What town is the helmet shop in?|barbarian village
 What town is the shield shop in?|Falador
 What town is the staff shop in?|Varrock
 What town is the mace shop in?|Falador
-What is the name of the chain mail shop?|Wayne’s Chains
+What is the name of the chain mail shop?|Wayneâ€™s Chains
 What is the name of the archery store in Varrock?|Lowe's Archery Emporium
 Who runs the eastern anvils and a small store in Varrock?|Horvik
 What is the name of the person who sells axes in Port Sarim?|Brian
