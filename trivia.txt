@@ -1,688 +1,210 @@
-What is the weakest armor?|bronze
-What level Mining do you need to mine Coal?|30
-What level is Elvarg?|83
-What level is a Black Knight?|33
-How many Quest Points do you need for the Champions' Guild?|32
-What is smelted with copper to make bronze?|tin
-What is the name of the ore involved in "The Knight's Sword" quest?|blurite
-What is the first type of weapon you can smith with each metal?|dagger
-True or false: Dragon can be smithed.|false
-What beer will raise your Mining and Smithing level by 1 each?|Dwarven stout
-What Mining level do you need to get into the Mining Guild?|60
-What city do you start in when you arrive from Tutorial Island?|Lumbridge
-What is the city north of the Barbarian Village?|Edgeville
-How many gp are equal to one K?|1000
-How many items do you keep after you have been killed without a skull or protection prayers?|3
-Who founded RuneScape?|Andrew Gower
-When you die where do you respawn?|Lumbridge
-What is the best melee armor a non-member can use?|rune
-How many gp do you have to pay to get to Karmaja?|30
-What will ruin the potion in the Black Knights Fortress quest?|cabbage
-How many map pieces do you need to get in the Dragon Slayer quest?|3
-What enemy is in the top floor of the Wizards Tower other than Wizards?|Lesser Demon
-What points to the pirate's treasure?|a statue
-What is the dragon's name in the Dragon Slayer quest?|Elvarg
-When did RuneScape 3D Beta come out?|December 1
-What Fishing level do you need for Hero's Quest?|53
-What is the highest combat level in RuneScape Classic?|123
-What is the highest combat level in RuneScape 2?|126
-Where can you find the chainmail shop?|Falador
-What Cooking level is required to bake Bread?|1
-At what Agility level can you play Gnomeball?|1
-When you reach level 99 in a skill, what exp does it say for next level?|14,391,160
-What Mining level would you need to mine Coal with a Dwarven Stout?|29
-What is the name of the river that goes through the desert?|River Elid
-What does it say when you examine a Ruined Pillar?|An old crumbled pillar
-What can you steal from a scimitar stall?|scimitars
-What magic spell can you do at level 45?|Camelot Teleport
-What is the maximum total level?|1881
-At what defence level can you wear a Rune Platebody?|40
-What Defence level is needed to wear mithril armour?|20
-What Crafting level is required to make a Sapphire Amulet?|24
-What level is a Dark Warrior?|8
-Spell: b____ t_ b______|bones to bananas
-At what Mining level can you mine Silver?|20
-What level is an Ice Giant?|53
-What is the Dragon Dagger special attack called?|puncture
-What level is a Knight of Ardougne?|46
-How many weapons have special attacks?|11
-What level is a Hill Giant?|28
-What Prayer can you use at level 1?|Thick Skin
-What do you need to make Leather?|Cow hide
-What Ranging level must you have in order to use a dwarf cannon?|1
-RuneScape History: In 2002, RuneScape members version was released. In what month was it released?|February
-What special ore is requires to make the sword in the Knight’s Sword Quest?|Blurite
-How many gp must you get for your money to be labeled "K" instead of "GP" in your inventory?|100000
-What percent will a Super Attack Potion increase your Attack?|20
-What percent will a Super Strength Potion increase your Attack?|0
-How many Cosmic Runes can you make with 1 Rune Essence at 73 Runecrafting?|2
-What is the description of Rock Skin?|Increases your defence by 10
-When you transfer a brand new RSC account to RS2, how many Hitpoints will you have?|9
-How many gp does a Yew Longbow high alch for?|768
-What level is a Blue Dragon?|111
-What type of trees can you cut at level 1 Woodcutting?|normal
-At what Smithing level can you smith a Steel Scimitar?|35
-How much experience do you need to get a skill to level 2?|83
-How many Hitpoints does an Ice Warrior have?|59
-What is the total maximum hit of a Magic Shortbow special?|46
-What does the examination of the archer close to Draynor say?|She looks quite experienced.
-What prayer can you use at level 10?|Rock Skin
-Where do you buy halberds?|Isafdar
-What type of rune do you need for strike spells?|Mind
-What level are Chickens?|1
-What Herblore level is required to make Anti Fire-breath Potions?|69
-Doing Dragon Slayer quest allows you to wear what type of platebody?|Rune
-What Fishing level do you need to get into the Fishing Guild (with a Fishing potion)?|65
-What Woodcutting level do you need to cut Magic trees?|75
-What level Runecrafting do you need to make Law runes?|54
-What level Runecrafting do you need to make Nature runes?|44
-What level is a Man?|2
-Who is believed to be Zamorak's son?|Iban
-What Agility is required to do Regicide?|56
-What items must you collect for Imp Catcher?|beads
-Where is the Magic Guild?|Yanille
-What is the only skill in which you cannot do or make anything at level 1?|Herblore
-What Thieving level is required to pickpocket a Guard?|40
-How much bank space do members have?|240
-Name this God spell - S________ S_____|Saradomin Strike
-What magic spell lets you teleport someone else?|Teleother
-In the Shilo Village quest, you need to get _____ of the Dead|Beads
-What type of tree can you cut at level 60 woodcutting?|Yew
-How much does the Unholy book give to all attack stats?|8
-What item do you need to pick up a Fire Feather?|Ice Gloves
-What Crafting level is required to make a Dragonstone Amulet?|80
-If you had 3/99 HP, how many full Meat Pizzas would you have to eat to get to full HP?|7
-What Fletching level do you need to make Adamant Darts?|67
-What level Agility is needed for Falador shortcut?|6
-What magic spell can you do at level 73?|Enfeeble
-At what Fishing level are you able to fish for Sharks?|76
-What magic spell can you do at level 20?|Bind
-What Fishing level is required to enter the Fishing Guild?|68
-How much range does a Ranging Potion add at level 95?|13
-What Fletching level do you need to make a Magic Longbow?|85
-What city does the silk dealer reside in?|Al Kharid
-What does an examined Oak say?|A Beautiful Old Oak
-What color is the liquid of a Super Attack Potion?|blue
-How many types of ores are there?|9
-What does it say when you examine 43536236 Coins?|43536236 x coins
-What Magic level is required to enter the Magic Guild?|66
-What magic level is required for High Level Alchemy?|55
-What level Fletching is required to make Steel Darts?|37
-What level Agility is needed for Port Phasmatys to Ectopool shortcut?|58
-What type of rune do you need for blast spells?|Death
-What magic spell can you do at level 56?|charge water orb
-What Crafting level do you need to make Red Dragonhide Body?|77
-What says this when you examine it "I doubt that was built to last..."?|heap of bricks
-From level 1 to level 73 is about how much xp?|1 million
-What level is it to craft Blue Dragonhide Chaps?|68
-How much experience is given when you identify Dwarf Weed?|13.75
-What does it say when you examine a Cow?|It's a dairy cow.
-At what level can you fish a Manta Ray?|81
-What Prayer can you use at level 34?|Incredible Reflexes
-How much do the Dward Multicannon pieces cost separately?|200k
-What does the skull and crossbones at the bottom right of the screen mean?|Wilderness
-What level Agility is needed for Dwarven Mine shortcut?|42
-What magic spell can you do at level 37?|Falador teleport
-What does an examined Zamorak Full Helm say?|Rune Full Helm in the Colours of Zamorak.
-What Range level is required to wear Ranger Boots?|40
-In what quest do you obtain Glarial's Amulet?|Waterfall Quest
-In "Tutorial Island" what type of shield do you receive?|Wooden shield
-Where would you find Jimmy the Chisel?|HAM Prison
-What does "H.A.M." stand for?|Humans Against Monsters
-What gem does a Ring of Recoil require?|Sapphire
-It is possible to attack a level 24 man without them turning to a werewolf?|yes
+A citizen in Tai Bwo Wannai?: T_______|Trufitus
 A level 120 Black Knight Titan guards what person in the Holy Grail Quest?|The Fisher King
-In Tribal Totem, if you forget to check the stairs for traps and go up them, where will you end up?|Sewers
-Where do you charge an Amulet of Glory?|heroes guild
-How many times do you have to complete the Gnome Stronghold Agility Course to get from 1 Agility to 99?|151,564
-How many normal logs does a new character have to cut to get level 2 woodcutting?|4
-What materials do you need for a Ranging Potion? (HERB and 2nd ITEM)|Dwarf Weed and Wine of Zamorak
-What mining level is required to mine Runite?|85
-What level agility is required to complete the Werewolf Skullball Course?|25
-How many slices are there per cake?|3
-What magic spell can you cast at level 49 magic?|Enchant lvl-3 Jewelry
-What is needed to obtain a piece of the prince outfit?|Frog Token
-How many Quest Points are needed to enter the Champions Guild?|32
-What level thieving is required to steal from the blood chest?|59
-How many banks are in Ardougne?|2
-Near what city is the Legends Guild located?|Ardougne
-How many spaces are in your inventory?|28
-To make 100 mithril bars, how much coal would you need?|400
-What mini-game is required to use the God Spells?|Mage Arena
-What spell is used to keep your target from teleporting?|Teleblock
-How many characters are allowed in your RuneScape nickname?|12
-What cooking level is required to cook sharks?|80
-What skill is above fishing on your stats menu?|smithing
-What is the maximum number of players a free player can have on their friends list?|100
-How many pieces are there to a cannon?|4
-What is the magic bonus given by Wizard Boots? (Not including the +)|4
-What two types of armour can any player wear, no matter what level?|bronze and iron
-What herb can you identify at level 65 Herblore?|Cadantine
-In what city would you find a RPDT employee?|Ardougne
-At what mining level can you mine gold?|40
-What quest is required to have the right to wear the green dragonhide body?|Dragon Slayer
-Prayer: D_____ t______ p_____|Drains targets prayer
-What does an examined beehive say?|Where bees live
-What is your hitpoints level throughout tutorial island?|10
-What level thieving is required to pickpocket Warriors?|25
-How many total skills are there?|24
-How many seconds does a Bind hold your target?|5
-How many casts must you use before you can use a God Spell outside of the arena?|100
-On what holiday were holiday drops made non-tradable?|Easter
-What is the highest number of quest points you can get as a free player?|39
-What do the crossed swords in the lower right corner of the screen mean?|Multicombat
-What free to play quest is required to start the skill Runecraft?|Rune Mysteries
-What monster drops beads?|Imps
-What rune do you need to cast a blast spell?|Death
-Who owns RuneScape?|Jagex LTD
-How many names can Free to Play players add to their Buddy list?|100
-Where do you go to Runecraft Law Runes?|Entrana
-What quest do you need to do to wield a Dragon Halberd?|Regicide
-Spell: E_______|Entangle
-What fletching level do you need to make Rune Arrows?|75
-What is the first weapon you can smith?|Bronze Dagger
-Where does Ghorrok Teleport take you?|Level 45 Wilderness
-Who is Iban?|Son of Zamorak
-What is the first spell you cast?|Wind Strike
-What spell can you cast at 66 magic?|Vulnerability
-How many fishing spots are there at Draynor Village?|2
-The Bind spell stops the person from moving for how many seconds?|5
-At what thieving level can you steal cakes?|5
-Magic is strong against what?|Melee
-Range armour is strong against what?|Magic
-Melee armour is strong against what?|Range
-What quest do you have to do to wield a Dragon Longsword?|Lost City
-What are the majority of rocks in the mining guild?|Coal
-What gem stone is Enchant Level 4 Jewelry associated with?|Diamond
-Where can you steal silk from?|Ardougne
-Who is the Jagex cat?|Bob
-How much exp do Raurg bones give you when buried normally?|96
-Magic is weak against what?|Range Armour
-Range is weak against what?|Melee Armour
-Burnt bones give more exp then normal bones when buried.|False
-What is the examine info of a Level 56 Cyclops?|A one-eyed man eater
-What is the examine info of a Zoo keeper?|Enjoys locking up animals in small pens
-Where is Councillor Halgrive located at?|Ardougne
-How many different types of 'Sick-looking sheep' are there?|4
-What range level do you need to get into the Range Guild?|40
-Where do you start the quest Imp Catcher?|Wizards Tower
+A ring that increases rare drops is known as?|Ring of wealth
+Anagram: Who is this person? a bas?|saba
+Anagram: Who is this person? aha jar?|jaraah
+Anagram: Who is this person? are col?|oracle
+Anagram: Who is this person? bail trims?|brimstail
+Anagram: Who is this person? bar bell seek?|kebab seller
+Anagram: Who is this person? eek zero op?|zookeeper
+Anagram: Who is this person? el ow?|lowe
+Anagram: Who is this person? goblin kern?|king bolren
+Anagram: Who is this person? halt us?|luthas
+Anagram: Who is this person? icy fe?|fycie
+Anagram: Who is this person? meif?|femi
+Anagram: Who is this person? ok co?|cook
+Anagram: Who is this person? peaty pert?|party pete
 Ardougne guards are level?|20
-How many different types of runes are there?|21
-What level are Ghouls?|42
-How much experience points does 1 agility ticket give you?|240
-The character limit for RuneScape in-game chat is?|80
-Which skill took the longest for the first person to reach level 99?|Prayer
-How much GP will you get if you cast High Level Alchemy on a Dragon Chainbody?|150k
-Which item used to be smithable but no longer is?|Pickaxe
-Number of emotes that need to be unlocked before you can use them?|14
-What is the last spell on the normal spells list?|Teleother Camelot
-RuneScape's release date?|January 4th, 2001
-Where is the cooking range that decreases the burn rate located at?|Lumbridge Castle
-What was RuneScape called before 'RuneScape'?|Devious MUD
-What is the character limit for RuneScape in-game chat?|80
-How many planks do you need for the Dragon Slayer quest?|3
-Who do you talk to start the Shilo Village Quest?|Mosol
-A citizen on Tai Bwo Wannai?: T_______|Trufitus
-Who will Enchant your battle staff for you?|Thormac
-How much does it cost to have a battle staff enchanted?|40k
-What level agility do you need to gain access to the barbarian outpost course?|35
-What is the name of the demon in Demon Slayer?|Delrith
-What rune is required for teleport spells?|law
-What rune is required for blast spells?|death
-What rune is required for amulet enchantment spells?|cosmic
-What level magic do you need for Varrock Teleport?|25
-What level magic do you need for Falador Teleport?|37
-What level magic do you need for Camelot Teleport?|45
-What level magic do you need for Ardougne Teleport?|51
-What spell allows you to convert items to gold?|alchemy
-Where do you need to be to charge a water orb?|water obelisk
-What are the 4 elemental runes in alphabetical order|air earth fire water
-What can be used in place of air runes?|air staff
-What level is needed to catch shark?|76
-What level is needed to catch lava eel(Hero's Guild Quest)?|53
-What do you need to catch lava eel (Hero's Guild Quest)?|oily fishing rod
-What level is needed to catch bass?|46
-What level is needed to catch lobster?|40
-What level is needed to catch salmon?|30
-What level is needed to cook lobster?|40
-What level is needed to cook lava eel (Hero's Guild Quest)?|53
-What do you need to catch swordfish?|harpoon
-What do you need to catch bass?|big net
-What level woodcutting do you need to cut maple trees?|45
-What level woodcutting do you need to cut magic trees?|75
-What level woodcutting do you need to cut willow trees?|30
-What level woodcutting do you need to cut yew trees?|60
-What level fletching do you need to make mithril arrows?|45
-What level fletching do you need to make rune arrows?|75
-What type of bow is needed to shoot mithril arrows?|willow
-What type of bow is needed to shoot rune arrows?|yew
-What level is a cow?|2
-What do quest do you need to complete to be able to use Herblore?|druidic ritual
-Where is the apothecary?|Varrock
-Where is the gem shop?|Falador
-Where is the armor shop?|Varrock
-Who sells armor in Varrock?|Horvik
-Where is the archery shop in the free worlds?|Varrock
-Where is the members archery shop?|Catherby
-Where is the mining supplies shop?|Dwarven Mine
-What level do you need to smith mithril plate?|68
-What level do you need to smith addy plate?|88
-What level do you need to smith rune plate?|99
-What level do you need to smith steel plate?|48
-How much health does a wild pie heal?|22
-How much health does a tuna potato heal?|22
-How much health does a summer pie heal?|22
-How much health does a manta ray heal?|22
-How much health does a sea turtle heal?|21
-How much health does a mushroom potato heal?|20
-How much health does one bite of a Evil turnip heal?|6
-How much health does a potato with cheese heal?|16
-How much health does a monkfish heal?|16
-How much health does a meat pizza heal?|16
-How much health does a egg potato heal?|16
-How much health does a Admiral pie heal?|16
-How much health does a chocolate bomb heal?|15
-How much health does a potato with butter heal?|14
-How much health does a plain pizza heal?|14
-How much health does a chili potato heal?|14
-How much health does a applie pie heal?|14
-How much health does tuna and corn heal?|13
-How much health does a wormhole heal?|12
-How much health does a garden pie heal?|12
-How much health does a fish pie heal?|12
-How much health does a worm batta heal?|12
-How much health does a meat pie heal?|11
-How much health does a fishcake heal?|11
-How much health does a pike heal?|8
-How much health does a peach heal?|8
-How much health does a trout heal?|7
-How much health do spicy crunchies heal?|7
-How much health does a cod heal?|7
-How much health does a choc ice heal?|7
-How much health does a jug of wine heal?|11
-How much health does a Moonlight Mead heal?|4
-How many health does chocolate cake heal?|15
-How much health does pineapple pizza heal?|22
-How much health does shark heal?|20
-How much health does a lobster heal?|12
-How much health does a pike heal?|8
-How much health does a redberry pie heal?|10
-How much health does a swordfish heal?|14
-How much health does a anchovy pizza heal?|16
-How much does 1 piece of pineapple pizza heal?|11
-How much will curry heal?|19
-How much health can a Redberry Pie Heal?|6
-How much health does a complete cake heal?|12
-Where do chocolate bars respawn?|Zanaris
-What do you add to cake to make chocolate cake?|chocolate bar
-How much cooking experience do you receive for baking a chocolate cake?|210
-What agility level do you need to cross the ledge in the Agility dungeon?|45
-What Herblore level do you need to make restore prayer potion?|38
-What Herblore level do you need to make fishing potion?|50
-What Herblore level do you need to make super strength potion?|55
-What Herblore level do you need to make ranging potion?|72
-What thieving level do you need to steal cake?|5
-What thieving level do you need to steal fur?|35
-What thieving level do you need to pickpocket guards?|40
-What thieving level do you need to pickpocket master farmers?|38
-What thieving level do you need to pickpocket warriors?|25
-What thieving level do you need to pickpocket rogues?|32
-What thieving level do you need to search for traps on nature rune chest?|28
-What thieving level do you need to search for traps on blood rune chest?|59
-What thieving level do you need to steal gems?|75
-What thieving level do you need to steal silver?|50
-What crafting level do you need to make glass vials?|33
-What crafting level do you need to make dragonstone amulet?|80
-What crafting level do you need to make diamond amulet|70
-What level is a man?|2
-What level is a Black Unicorn?|27
-What level is Dad?|101
-What level is a Dagganoth?|90
-What level is a Giant Rat?|3
-What level is a Soulless?|18
-What level is a Steel Dragon?|246
-What level is a Iron Dragon?|189
-What level is a Bronze Dragon?|131
-What level is a Black Demon?|172
-What level is a Rock Crab?|13
-What level is a Chaos Dwarf?|48
-What level is a Chicken?|1
-What level is a Dire wolf?|88
-What level is Dagganoth Rex?|303
-What level is a Hero?|69
-What level is a Jungle Spider?|44
-What level is a Lesser Demon|82
-What level is a Green Dragon?|79
-What level is a Blue Dragon?|111
-What level is a Baby Blue Dragon?|48
-What level is a Baby Red Dragon?|65
-What herb do you need to make fishing potion?|avantoe
-What herb do you need to make ranging potion?|dwarf weed
-What herb do you need to make super strength potion?|kwuarm
-What herb do you need to make super attack?|irit
-What herb do you need to make defence potion?|ranarr
-Where can you find white berries?|Red dragon lava lake
-What do you add to irit leaf to make antidote?|ground unicorn horn
-What do you add to tarromin to make strength potion?|limpwurt
-What Herblore level do you need to identify guam?|3
-What Herblore level do you need to identify marrentill?|5
-What Herblore level do you need to identify ranarr?|25
-What Herblore level do you need to identify Tarromin?|11
-What Herblore level do you need to identify Kwuarm?|55
-What Herblore level do you need to identify Dwarf weed?|70
-What Herblore level do you need to identify Avantoe?|48
-What Herblore level do you need to identify torstol?|75
-Who do you need to talk to to start the Biohazard quest?|Elena
-Who do you need to talk to to start the Hero's quest?|Achietties
-What do you need to get the firebird feather?|ice gloves
-Where do you start the Tree Gnome Village quest?|tree gnome village
+Ardougne Teleport requires _ water and law runes|2
+As well as Teleporting you to various places, the Amulet of Glory also increases the chance of getting a ___ while mining.|Gem
+At what Agility level can you play Gnomeball?|1
+At what Defence level can you wear a Rune Platebody?|40
+At what Fishing level are you able to fish for Sharks?|76
+At what level can you fish a Manta Ray?|81
+At what level Fishing can you catch Anchovies?|15
+At what Mining level can you mine gold?|40
+At what Mining level can you mine Silver?|20
+At what Smithing level can you smith a Steel Scimitar?|35
+At what Thieving level can you steal from Cake Stalls?|5
+Blue, Red, White, Green, Purple, and what is the last color of party hat?|Yellow
+Camelot Teleport requires _ air and _ law rune|5 1
+City: A_ K_____|Al Kharid
+Complete the quest name: Getrude's ___|cat
 Completing the Tree Gnome Village quest allows you to use the Spirit Trees to ___________?|teleport
-Where can you buy iron legs other than Al Kharid?|Varrock
-What came into the game first, fishing or mining?|mining
-What is the best type of axe?|dragon
-What is the common name for an inexperienced player?|noob
-What do you bury to advance prayer levels?|bones
-What is the name of the chicken you help in a quest?|Ernest
-In the knight's sword quest, who does the sword belong to?|Sir Vyvin
-In the Imp Catcher quest, who are you collecting beads for?|Wizard Mizgog
-What does Redbeard Frank want in the Pirate Treasure quest?|Karamja rum
-Who is holding Prince Ali hostage in the Al Kharid Rescue quest?|Lady Keli
-Who do you shear sheep for in the sheep shearing quest?|Farmer Fred
-Who is the leader of the Black Arm Gang?|Katrine
-What is the name of the witch who lives in Rimmington?|Hetty
-What is the name of the witch who lives in the Draynor area?|aggie
-What is used to make yellow dye?|onions
-What is used to make red dye?|redberries
-What is used to make blue dye?|woad leaves
-What is used to make green dye?|blue and yellow
-What is used to make purple dye?|red and blue
-What is used to make orange dye?|red and yellow
-Who sells woad leaves?|Wyson
-What is the black knight's "secret weapon" in the Black Knights quest?|invincibility potion
-In the cook's assistant quest who is the cook making a cake for?|Duke of Lumbridge
-Who has the first Silverlight key?|Sir Prysin
-Who has the second Silverlight key?|Captain Rovin
-Who has the third Silverlight key?|Wizard Traiborn
-How many coal do you need for Doric's quest?|0
-How many iron do you need for Doric's quest?|2
-How many clay do you need for Doric's quest?|6
-How many copper do you need for Doric's quest?|4
-What is the name of Ernest’s Wife?|Veronica
-Who do you talk to in the vampire quest?|Morgan
-Who sells rune plate mail?|Oziach
-In the dragon quest, who gives you a riddle on top of ice mountain?|Oracle
-In the dragon quest, who gives you the anti-dragon breath shield?|Duke of Lumbridge
-What is the name of level 7 prayer?|clarity of thought
-What is the name of level 13 prayer?|Superhuman Strength
-What is the name of level 10 prayer?|RockSkin
-What is the name of level 22 prayer?|Rapid Heal
-What is the name of level 28 prayer?|SteelSkin
-What is the name of level 40 prayer?|Protect from Missiles
-What is the name of level 43 prayer?|Protect from Melee
-What crafting level is needed to make a Ruby Amulet?|50
-What crafting level is needed to make a Sapphire Amulet?|24
-What crafting level is needed to make a Diamond Amulet?|70
-What crafting level is needed to make a Dragonstone Amulet?|80
-What are the majority of the rocks in the miners guild?|coal
-How many mithril rocks are there in the miners guild(now)?|6
-What members skill involves taking items from market stalls?|thieving
-What members skill involves making potions?|Herblore
-What members skill involves creating archery items?|fletching
-How much money u have to pay for a makeover mage?|3k
-What level is needed to steal silk?|20
-What do scorpions drop?|charms
-What do ghosts drop?|nothing
-What are feathers used for in the free worlds?|fly fishing
-What high level monsters are in the back of the Varrock sewers?|moss giants
-What special ore do you need to make the sword in the knight's sword quest?|blurite
-What is the strongest type of giant in the free worlds?|Ice
-What monsters are found at the back of the Edgeville dungeon?|giants
-What did Edgeville used to be called?|ghost town
-What level prayer do you need to get into the prayer guild?|31
-What level crafting do you need to get into the crafting guild?|40
-What level fishing do you need to get into the fishing guild?|68
-What is the name of the plant used to make bowstrings?|flax
-What level mining is required to get in the Mining Guild?|60
-What is the bank called?|The Bank of RuneScape
-What did the bank used to be called?|The Bank of Varrock
+Doing Dragon Slayer quest allows you to wear what type of platebody?|Rune
+Falador Teleport requires _ air, _ water, and _ law rune|3 1 1
+Finish this quote: "I sell axes, take your ______"|pick
+Food: k____|kebab
+From level 1 to level 73 is about how much xp?|1 million
+Gilded armor has the same stats as what?|rune
 Holy symbol of ______?|Saradomin
-What skill does monk's robes increase?|prayer
-What skill does emerald amulet increase?|defence
-What skill does sapphire amulet increase?|magic
-What skill does ruby amulet increase?|strength
-What skill does holy symbol increase?|prayer
-What is the best type of shield sold in the shield shop?|mithril square
-What is the best type of sword sold in the sword shop?|adamantite long
-What is the highest level in the wilderness (Free World)?|48
-What monster drops rune larges?|greater demon
-What monster drops rune medium helms?|lesser demon
-What monster drops spinach rolls?|moss giants
-What town do you start in?|Lumbridge
+How many Adamantite Ores are in the Hobgoblin Mine?|7
+How many animals in the Ardougne Zoo?|40
+How many Apple Trees are in the Apple Orchard?|30
+How many banks are in Ardougne?|2
+How many cannons does Lumbridge Castle have?|9
+How many casts must you use before you can use a God Spell outside of the arena?|100
+How many characters are allowed in your RuneScape nickname?|12
+How many Characters can each server/world hold?|2000
+How many charges can an Amulet of Glory have?|4
+How many charges does the skull sceptre have?|5
+How many clay do you need for Doric's quest?|6
+How many coal do you need for Doric's quest?|0
+How many coal rocks are there at barbarian village?|4
 How many coal rocks are there in the mine south of Varrock?|0
 How many coal rocks are there in the mine west of Varrock?|3
-How many coal rocks are there at barbarian village?|4
-What city is the dwarven mines under?|Falador
-What city has a clothes shop in it?|Varrock
-City: A_ K_____|Al Kharid
-What city is in the desert?|Al Kharid
-Where do tomatoes and cheese respawn?|Draynor
-What is the name of the person who sells axes in Lumbridge?|bob
-Finish this quote: "I sell axes, take your ______"|pick
-Foods: k____|kebab
-What level smithing do you need to make a steel plate?|48
-How much coal goes with an ore to make a steel bar?|2
-How much coal goes with an ore to make a mith bar?|4
-How much coal goes with an ore to make a addy bar?|6
-How much coal goes with an ore to make a rune bar?|8
-What is the name of the curved sword?|scimitar
-What town is the legs shop in?|Al Kharid
-What town is the skirt shop in?|Al Kharid
-What town is the helmet shop in?|barbarian village
-What town is the shield shop in?|Falador
-What town is the staff shop in?|Varrock
-What town is the mace shop in?|Falador
-What is the name of the chain mail shop?|Wayne’s Chains
-What is the name of the archery store in Varrock?|Lowe's Archery Emporium
-Who runs the eastern anvils and a small store in Varrock?|Horvik
-What is the name of the person who sells axes in Port Sarim?|Brian
-What is the name of the pub in Varrock?|blue moon inn
-What is the name of the pub by the edge of the wilderness?|jolly boar inn
-What is the name of the guard who is helping guard Prince Ali?|Joe
-What does it say when you examine a man?|one of RuneScapes many citizens
-Who do you have to talk to to get into Al Kharid through the gate?|border guard
-Who changes cow hides for leather?|tanner
-What are the names of the guards in Al Kharid?|warriors
-What is the name of the leader of Al Kharid?|Hassan
-What level is the witch in Al Kharid?|25
-How many items are certificates redeemable for?|5
-What level are white knights?|36
-Who is the leader of the barbarians in barbarian village?|Gunthor the Brave
-How many quest points must you have to do the black knight's quest?|12
-Which city has the sheep catcher quest in it?|Ardougne
-What are the strongest type of giants?(members)|fire
-Who runs the banana plantation?|Luthas
-What is the name of the first island made?|Tutorial Island
-What town is on Karamja?(members)|Brimhaven
-What is the name of the third island made?|Crandor
-What skill is used in making holy symbols?|crafting
-What metal is a holy symbol made from?|silver
-What is the name of the chainmail store?|Wayne's Chains
-What do you get from cutting down trees?|logs
-Where is rum sold?|Karamja
-Who do you get Karamja rum for?|Redbeard Frank
-Who do you talk to to start the Grand Tree quest|King Narnode Shareen
-Who sends the Black Demon after you in the Grand Tree Quest?|Glough
-Where can you buy a Dragon Battle Axe?|Heroes Guild
-What monster do you have to fight in the Witches House|shapeshifter
-What quest rewards you with Oyster Pearls?|sea slug
-Where can you find red worms|McGrubors Wood
-What level is a Lumbridge Goblin?|2
-What level is a mugger?|10
-What level is a highwayman?|5
-What level is a farmer?|7
-What level is a unicorn?|21
-What three ores does Doric ask you to bring him?|clay copper iron
-What ship do you take to Crandor Isle|Lady Lumbridge
-Who pilots the Lady Lumbridge for you?|Ned
-Who turned Ernest into a chicken?|Mad Scientist
-In the Goblin Diplomacy quest, you talk to General Bentnose and General ________|Wartface
-Who is the Varrock Castle Librarian?|Reldo
-Who will give you a job at the Port Sarim food store?|Wydin
-Who can you buy rope from?|Ned
-What does the Restless Ghost need to be able to rest?|skull
-What do you use to turn wool into a ball of yarn?|Spinning wheel
-What does Katrine want you to bring her? (Shield of Arrav)|2 Phoenix crossbows
-What do you need to kill Count Draynor?|stake
-Who runs the members Archery Store|Hickton
-Which monster drops beads?|Imp
-What color is the dragon in Dragon Slayer?|green
-What rune is required for curse spells|body
-What rune is required for strike spells|mind
-What rune is required for bolt spells|chaos
-What rune is required for alchemy spells|nature
-Lumbridge Teleport requires _ air, _ earth, and _ law rune|3 1 1
-Telekinetic Grab requires _ air and _ law rune|1 1
-Falador Teleport requires _ air, _ water, and _ law rune|3 1 1
-Varrock Teleport requires _ air, _ fire, and _ law rune|3 1 1
-Camelot Teleport requires _ air and _ law rune|5 1
-Ardougne Teleport requires _ water and _ law runes|2 2
-Who runs the Catherby fishing store?|Harry
-What monsters are in the caves of Lost City? (Besides Fairies)|otherworldly beings
-What level agility is needed to enter the wilderness course?|52
-What level agility is needed to enter the werewolf course?|60
-What level magic is needed to cast Teleblock?|85
-What level magic is needed to cast Charge spell?|80
-(Anagram)Who is this person? a bas?|saba
-(Anagram)Who is this person? aha jar?|jaraah
-(Anagram)Who is this person? are col?|oracle
-(Anagram)Who is this person? bar bell seek?|kebab seller
-(Anagram)Who is this person? bail trims?|brimstail
-(Anagram)Who is this person? el ow?|lowe
-(Anagram)Who is this person? haltas?|lathas
-(Anagram)Who is this person? fceiy|fycie
-(Anagram)Who is this person? meif?|femi
-(Anagram)Who is this person? ok co?|cook
-(Anagram)Who is this person? p____ p___|party pete
-I have 16 kebabs, I eat one myself and share the rest equally between 3 friends how many do they have each?|5
-How many cannons does Lumbridge Castle have?|9
-How many animals in the Ardougne Zoo?|40
-What is Damis the Shadow Warrior's max hit?|28
-What programming language is RuneScape made in?|Java
-Who do you have to kill to acquire ice gloves?|ice queen
-How many shots does a fully recharged crystal bow have?|2500
-What is the highest level any random can be?|159
-What is the random called where you get a strange box?|mysterious old man
-Gilded armor has the same stats as what?|rune
+How many copper do you need for Doric's quest?|4
+How many Cosmic Runes can you make with 1 Rune Essence at 73 Runecrafting?|2
+How many different keys can you obtain in Melzar's Maze?|6
+How many different types of 'Sick-looking sheep' are there?|4
+How many different types of runes are there?|13
+How many fishing spots are there at Draynor Village?|2
+How many fishing spots does the River Lumbridge have?|6
+How many gp are equal to one K?|1000
+How many gp do you have to pay to get to Karmaja?|30
+How many gp does a Yew Longbow high alch for?|768
+How many gp must you get for your money to be labeled "K" instead of "GP" in your inventory?|100000
 How many Halloween masks are there?|3
-If you have this level in Attack, Strength, and Defence, you will be 100 combat. What level is it?|80
-Complete the quest name: Getrude's ___|cat
-What weapon is given to you to kill Viyeldi in Legends Quest?|Black Dagger
-What ring turns you into a rock?|Ring of Stone
-As well as Teleporting you to various places, the Amulet of Glory also increases the chance of getting a ___ while mining.|Gem
-How much does Shield Right Half cost in the Legends Guild?|750k
-What year was you able to get a Scythe as a Holiday drop?|2003
-Where is the only place Non-Members can fish for Lobsters?|Karamja
-The Skull Sceptre teleports you to _________ _______|barbarian village
-How many charges does the skull sceptre have?|5
+How many Hitpoints does an Ice Warrior have?|59
+How many iron do you need for Doric's quest?|2
+How many items are certificates redeemable for?|5
+How many items do you keep after you have been killed without a skull or protection prayers?|3
+How many Lesser Demons are on Crandor Isle (not beneath it)?|2
+How many map pieces do you need to get in the Dragon Slayer quest?|3
+How many mithril rocks are there in the miners guild(now)?|6
+How many names can Free to Play players add to their Buddy list?|100
+How many normal logs does a new character have to cut to get level 2 woodcutting?|4
+How many party hats are there in a set?|6
+How many pieces are there to a cannon?|4
 How many pieces fit together to make the Skull Sceptre?|4
-What prayer level must you have to Bless Holy and Unholy Symbols?|50
-Quest Name: Creature of __________|Fenkenstrain
-Quest Name: The Restless _____|Ghost
-Which armour is all red?|dragon
-Who do you pay to get into the Brimhaven dungeon?|Saniboch
+How many planks do you need for the Dragon Slayer quest?|3
+How many points of damage can an Experiment take?|100
+How many portals are in Castle Wars?|3
+How many Quest Points are needed to enter the Champions Guild?|32
+How many Quest Points do you need for the Champions' Guild?|32
+How many quest points must you have to do the black knight's quest?|12
+How many Rune Ess would be required to get 99 Runecrafting off Air Runes?|2,606,887
+How many Runecraft Altars are there in non-members worlds?|6
+How many seconds does a Bind hold your target?|5
+How many seed stalls are there in Draynor Village?|2
+How many shots does a fully recharged crystal bow have?|2500
+How many slices are there per cake?|3
+How many small Islands are in the middle of Karamja Volcano?|3
+How many spaces are in your inventory?|28
+How many stone items are required to charge a Pharaoh's Sceptre?|12
+How many times do you have to complete the Gnome Stronghold Agility Course to get from 1 Agility to 99?|151,564
+How many total skills are there?|24
+How many types of ores are there?|9
+How many water fountains are at the Monastery?|4
+How many weapons have special attacks?|11
+How much bank space do members have?|240
+How much coal can the coal trucks above Seers hold?|120
+How much coal do you need to make a Bronze Bar?|0
+How much coal goes with an ore to make a addy bar?|6
+How much coal goes with an ore to make a mith bar?|4
+How much coal goes with an ore to make a rune bar?|8
+How much coal goes with an ore to make a steel bar?|2
+How much cooking experience do you receive for baking a chocolate cake?|210
+How much do the Dward Multicannon pieces cost separately?|200k
 How much do you pay to get into the Brimhaven dungeon?|875gp
-How many charges does a glory have?|4
-Quest name: Black knights ________?|Fortress
-Quest name: Cook's _________?|Assistant
-Quest name: Demon _____?|Slayer
-Quest name: Ernest the _______?|Chicken
-Quest name: Goblin _________?|Diplomacy
-Quest name: Imp _______?|Catcher
-Quest name: The Restless _____?|Ghost
-Quest name: Romeo and ______?|Juliet
-Quest name: Shield of _____?|Arrav
-Quest name: Elemental ________?|Workshop
-Quest name: Hazeel ____?|Cult
-Quest name: Holy _____?|Grail
-Quest name: In search of the _______?|Myreque
-Quest name: Jungle ______?|Potion
-Quest name: Merlin's _______?|Crystal
-Quest name: Mountain ________?|Daughter
-Quest name: Murder _______?|Mystery
-Quest name: Nature ______?|Spirit
-Quest name: One small ______?|Favour
-Quest name: Recruitment _____?|Drive
-Quest name: Scorpion _______?|Catcher
-Quest name: Shades of ____'___?|Mort'ton
-Quest name: Sheep ______?|Herder
-Quest name: Temple of ____?|Ikov
-Quest name: Throne of ___________?|Miscellania
-Quest name: Tree gnome _______?|Village
+How much does 1 piece of pineapple pizza heal?|11
+How much does it cost to convert a oak plank?|250gp
+How much does it cost to have a battle staff enchanted?|40k
+How much does Shield Right Half cost in the Legends Guild?|750k
+How much does the Unholy book give to all attack stats?|8
+How much exp do Raurg bones give you when buried normally?|96
+How much experience do you need to get a skill to level 2?|83
+How much experience is given when you identify Dwarf Weed?|13.75
+How much experience points does 1 agility ticket give you?|240
+How much GP will you get if you cast High Level Alchemy on a Dragon Chainbody?|150k
+How much health do Spicy Crunchies heal?|7
+How much health does a Cake heal in total?|12
+How much health does a Chocolate Bomb heal?|15
+How much health does a Chocolate Cake heal in total?|15
+How much health does a Cod heal?|7
+How much health does a Curry heal?|19
+How much health does a Jug of Wine heal?|11
+How much health does a Lobster heal?|12
+How much health does a Manta Ray heal?|22
+How much health does a Meat Pie heal in total?|12
+How much health does a Meat Pizza heal in total?|16
+How much health does a Monkfish heal?|16
+How much health does a Moonlight Mead heal?|4
+How much health does a Pike heal?|8
+How much health does a Pineapple Pizza heal in total?|22
+How much health does a Plain Pizza heal in total?|14
+How much health does a Redberry Pie heal in total?|10
+How much health does a Sea Turtle heal?|21
+How much health does a Shark heal?|20
+How much health does a Swordfish heal?|14
+How much health does a Trout heal?|7
+How much health does a Worm Batta heal?|12
+How much health does a Worm Hole heal?|12
+How much health does an Anchovy Pizza heal in total?|18
+How much health does an Apple Pie heal in total?|14
+How much money does the Make-over Mage charge for a makeover?|3k
+How much range does a Ranging Potion add at level 95?|13
+How old is the Gypsy in Varrock?|336
+I have 16 kebabs, I eat one myself and share the rest equally between 3 friends how many do they have each?|5
+If I went east from Port Sarim, where would I be?|Draynor village
+If you had 3/99 HP, how many full Meat Pizzas would you have to eat to get to full HP?|7
+If you have 1 million xp in any skill, you are level __ in that skill?|73
+If you have this level in Attack, Strength, and Defence, you will be 100 combat. What level is it?|80
+If you see a silver crown next to a player name, this signals they are a..|player moderator
+If you were to lose your amulet of Catspeak, who would you have to talk to in order to receive it again?|The Sphinx in Sophanem
+In "Tutorial Island" what type of shield do you receive?|Wooden shield
+In the cook's assistant quest who is the cook making a cake for?|Duke of Lumbridge
+In the Dragon Slayer quest, who gives you a riddle on top of ice mountain?|Oracle
+In the Dragon Slayer quest, who gives you the anti-dragon breath shield?|Duke of Lumbridge
+In the Family Crest quest, where does the Chef live?|Catherby
+In the Goblin Diplomacy quest, you talk to General Bentnose and General ________|Wartface
+In the Imp Catcher quest, who are you collecting beads for?|Wizard Mizgog
+In the knight's sword quest, who does the sword belong to?|Sir Vyvin
+In the Shilo Village quest, you need to get _____ of the Dead|Beads
+In Tribal Totem, if you forget to check the stairs for traps and go up them, where will you end up?|Sewers
+In what city would you find a RPDT employee?|Ardougne
+In what quest do you obtain Glarial's Amulet?|Waterfall Quest
+In what quest must you use a vial of honey, a distillator and rotten meat?|biohazard
+In which skill would you add an irit leaf to a waterfilled vial?|Herblore
+It is possible to attack a level 24 man without them turning to a werewolf?|yes
+Lumbridge Teleport requires _ air, _ earth, and _ law rune|3 1 1
+Magic is strong against what?|Melee
+Magic is weak against what?|Range Armour
+Melee armour is strong against what?|Range
+Minigame name: ______ of Mort'ton?|Shades
+Minigame name: Brimhaven Agility _____?|Arena
 Minigame name: Castle ____?|Wars
 Minigame name: Duel _____?|Arena
-Minigame name: Mage _____?|Arena
-Minigame name: ______ of Mort'ton?|Shades
-Minigame name: Tai Bwo Wannai _______?|Cleanup
-Minigame name: Brimhaven Agility _____?|Arena
 Minigame name: Fishing _______?|Trawler
 Minigame name: Gnome ____?|Ball
+Minigame name: Mage _____?|Arena
+Minigame name: Tai Bwo Wannai _______?|Cleanup
 Minigame name: Treasure ______?|trails
-Monster name: Aberrant _______?|spectre
-Monster name: Arm_____ zom___?|Armoured zombie
-Monster name: Bab_ bla__ dra___?|Baby black dragon
 Monster name: Bab_ blu_ dra___?|Baby blue dragon
 Monster name: Ban___?|Bandit
-Monster name: Bar_-______ keb___?|Barb-tailed kebbit
 Monster name: Bar______?|Barbarian
-Monster name: Bat___ Mag_?|Battle Mage
-Monster name: Bed____ Nom__ Fig____?|Bedabin Nomad Fighter
 Monster name: Bla__ Dem__?|Black Demon
-Monster name: Bla__ Gua__?|Black Guard
-Monster name: Bla__ Gua__ Ber______?|Black Guard Berserker
-Monster name: Bla__ Kni___?|Black Knight
 Monster name: Bla__ Kni___ Tit__?|Black Knight Titan
+Monster name: Bla__ Kni___?|Black Knight
 Monster name: Bla__ Uni____?|Black unicorn
-Monster name: Bla__ Uni____ Foa_?|Black unicorn Foal
-Monster name: Ble____ Gia__ Rat?|Blessed giant rat
-Monster name: Ble____ Spi___?|Blessed spider
-Monster name: Blo______?|Bloodworm
 Monster name: Blu_ Dra___?|Blue Dragon
-Monster name: Bro___ Dra___?|Bronze dragon
-Monster name: Bru___ Gre__ Dra___?|Brutal green dragon
-Monster name: Cam_ Dwe____?|Camp Dweller
-Monster name: Cav_ Gob___?|Cave Goblin
-Monster name: Cav_ Gob__ Gua__?|Cave goblin guard
-Monster name: Cav_ Gob__ Min__?|Cave goblin miner
-Monster name: Cav_ Sli__?|Cave slime
-Monster name: Cha__ Dru__?|Chaos Druid
 Monster name: Cha__ Dru__ War____?|Chaos druid warrior
+Monster name: Cha__ Dru__?|Chaos Druid
 Monster name: Cha__ Dwa__?|Chaos Dwarf
 Monster name: Chi____?|Chicken
-Monster name: Cho______ Keb___?|Chocolate kebbit
 Monster name: Cho___ Bir_?|Chompy Bird
-Monster name: Cop___ Lon_____?|Copper longtail
-Monster name: Cri____ Swi__?|Crimson swift
-Monster name: Cro______?|Crocodile
-Monster name: Cry__ Spi___?|Crypt spider
 Monster name: Cyc____?|Cyclops
-Monster name: ___?|Dad
+Monster name: D__?|Dad
 Monster name: Dag______?|Dagannoth
-Monster name: Dag______ Mot___?|Dagannoth mother
-Monster name: Dag______ Spa__?|Dagannoth spawn
-Monster name: Dar_ Keb___?|Dark kebbit
 Monster name: Dar_ War____?|Dark Warrior
 Monster name: Dar_ Wiz___?|Dark wizard
-Monster name: Das____ Keb___?|Dashing kebbit
 Monster name: Dea___ ____ Spi___?|Deadly Red Spider
-Monster name: Des___ Sna__?|Desert snake
 Monster name: Des___ Wol_?|Desert wolf
 Monster name: Dir_ Wol_?|Dire wolf
 Monster name: Dru____ Dwa__?|Drunken Dwarf
-Monster name: Duc_____?|Duckling
 Monster name: Dun____ ___?|Dungeon rat
 Monster name: Ear__ War____?|Earth Warrior
 Monster name: Elv___?|Elvarg
-Monster name: Evi_ Chi____?|Evil chicken
 Monster name: Exp_______?|Experiment
 Monster name: Far___?|Farmer
 Monster name: Fi__ Gi___?|Fire giant
@@ -700,30 +222,30 @@ Monster name: Gia__ Spi___?|Giant spider
 Monster name: Gno__ Arc___?|Gnome Archer
 Monster name: Gno__ Gua__?|Gnome guard
 Monster name: Gob___?|Goblin
+Monster name: Gr__ Wo__?|Grey wolf
+Monster name: Gr___ Dr____?|Green Dragon
 Monster name: Gra__ Sco_____?|Grave Scorpion
 Monster name: Gre____ De___?|Greater Demon
-Monster name: Gr___ Dr____?|Green Dragon
-Monster name: Gr__ Wo__?|Grey wolf
 Monster name: Gri____ Be__?|Grizzly Bear
-Monster name: Gua__?|Guard
-Monster name: Gua__ Ban___?|Guard Bandit
 Monster name: Gua__ ___?|Guard dog
+Monster name: Gua__ Ban___?|Guard Bandit
+Monster name: Gua__?|Guard
 Monster name: Hel______?|Hellhound
-Monster name: Hig_______?|Highwayman
 Monster name: Hi__ Gia__?|Hill Giant
+Monster name: Hig_______?|Highwayman
 Monster name: Hob______?|Hobgoblin
-Monster name: Ib__ Dis_____?|Iban disciple
 Monster name: I__ Gia__?|Ice giant
 Monster name: I__ Que__?|Ice queen
 Monster name: I__ Spi___?|Ice spider
 Monster name: I__ Tro__?|Ice Troll
 Monster name: I__ War____?|Ice Warrior
 Monster name: I__ Wo__?|Ice wolf
+Monster name: I__?|Imp
+Monster name: Ib__ Dis_____?|Iban disciple
 Monster name: Ice_____?|Icefiend
-Monster name: ___?|Imp
 Monster name: Ir__ Dra___?|Iron dragon
-Monster name: Jac___?|Jackal 
 Monster name: Ja__ Gua__?|Jail guard 
+Monster name: Jac___?|Jackal 
 Monster name: Jai___?|Jailer 
 Monster name: Jor__?|Jogre 
 Monster name: Jun___ Dem__?|Jungle Demon 
@@ -749,45 +271,46 @@ Monster name: Lar__ Mos_____?|Large mosquito
 Monster name: Le___?|Leech 
 Monster name: Les___ De___?|Lesser Demon 
 Monster name: Liz___?|Lizard 
-Monster name: Ma___ A__?|Magic Axe 
+Monster name: M_ Hy__?|Mr Hyde
 Monster name: M__?|Man 
+Monster name: Ma___ A__?|Magic Axe 
 Monster name: Mar___ Gu___?|Market Guard
 Monster name: Mer______?|Mercenary 
-Monster name: Mol_____?|Molanisk 
-Monster name: Mo__?|Monk 
+Monster name: Mo__ Gia__?|Moss giant
 Monster name: Mo__ o_ Zam____?|Monk of Zamorak
+Monster name: Mo__?|Monk 
+Monster name: Mol_____?|Molanisk 
 Monster name: Mon___?|Monkey 
 Monster name: Mos_____ Swa__?|Mosquito swarm
-Monster name: Mo__ Gia__?|Moss giant
+Monster name: Mou____ Ter_______ Gno__?|Mounted terrorbird gnome 
 Monster name: Mou_____ Go__?|Mountain goat 
 Monster name: Mou_____ Tro__?|Mountain Troll 
-Monster name: Mou____ Ter_______ Gno__?|Mounted terrorbird gnome 
 Monster name: Mou____?|Mourner 
-Monster name: M_ Hy__?|Mr Hyde
 Monster name: Mud_______?|Mudskipper
 Monster name: Mug___?|Mugger 
 Monster name: Mum__?|Mummy 
 Monster name: My__ Sna__?|Myre snail 
 Monster name: Na__ Bea__?|Nail beast
 Monster name: Nec________?|Necromancer 
-Monster name: Og__?|Ogre
+Monster name: O__?|Orc 
 Monster name: Og__ Gu___?|Ogre guard 
 Monster name: Og__ Mer_____?|Ogre merchant 
-Monster name: O__?|Orc 
+Monster name: Og__ Sha___?|Ogre Shaman
+Monster name: Og__?|Ogre
 Monster name: Oth_________ Be___?|Otherworldly being 
 Monster name: Out___?|Outlaw 
+Monster name: P__ Sco_____?|Pit Scorpion 
 Monster name: Pal____?|Paladin 
 Monster name: Phe_____?|Pheasant 
-Monster name: Pir___?|Pirate
 Monster name: Pir___ Gu___?|Pirate guard 
-Monster name: P__ Sco_____?|Pit Scorpion 
+Monster name: Pir___?|Pirate
 Monster name: Pla___ C__?|Plague cow 
 Monster name: Poi___ Sco_____?|Poison Scorpion 
 Monster name: Poi___ Spi___?|Poison Spider 
-Monster name: Rab___?|Rabbit 
+Monster name: R__ Dr____?|Red dragon 
 Monster name: R__?|Ram 
 Monster name: R__?|Rat 
-Monster name: R__ Dr____?|Red dragon 
+Monster name: Rab___?|Rabbit 
 Monster name: Ren_____ Kni___?|Renegade Knight 
 Monster name: Riv__ Tro__?|River Troll
 Monster name: Ro__ Cr__?|Rock Crab 
@@ -796,33 +319,33 @@ Monster name: Ro__ Lob____?|Rock lobster
 Monster name: Rog__?|Rogue 
 Monster name: Roo____?|Rooster 
 Monster name: Ru__ Har____?|Ruby harvest 
+Monster name: S__ Tr___?|Sea troll
 Monster name: Sab__-_______ Keb___?|Sabre-toothed kebbit 
 Monster name: Sab__-_______ Kya__?|Sabre-toothed kyatt 
 Monster name: Sar______ Wiz___?|Saradomin Wizard 
 Monster name: Sco_____?|Scorpion
-Monster name: S__ Tr___?|Sea troll
 Monster name: Sea____?|Seagull 
 Monster name: Sh___?|Shade
+Monster name: Sh___?|Shark 
 Monster name: Sha___ Spi___?|Shadow Spider 
 Monster name: Sha___ War____?|Shadow Warrior 
 Monster name: Sha____ Gu___?|Shantay Guard 
-Monster name: Sh___?|Shark 
 Monster name: Ske_____ Ha__?|Skeletal Hand 
 Monster name: Ske_____ Hel______?|Skeletal hellhound 
-Monster name: Ske_____ Min__?|Skeletal Miner 
-Monster name: Ske_____?|Skeleton
 Monster name: Ske_____ Ma__?|Skeleton Mage
+Monster name: Ske_____ Min__?|Skeletal Miner 
 Monster name: Ske_____ Th__?|Skeleton thug 
-Monster name: Sna_____?|Snailfeet 
+Monster name: Ske_____?|Skeleton
 Monster name: Sn___?|Snake
+Monster name: Sna_____?|Snailfeet 
 Monster name: Sol____?|Soldier
 Monster name: Sou_____?|Soulless
-Monster name: Spi___?|Spider
 Monster name: Spi___ Lar____?|Spined Larupia 
+Monster name: Spi___?|Spider
 Monster name: Spo____ Keb___?|Spotted kebbit 
 Monster name: Spr___ Ele______?|Spring Elemental 
-Monster name: St__?|Stag 
 Monster name: St___ Dr____?|Steel dragon 
+Monster name: St__?|Stag 
 Monster name: Str_____?|Stranger 
 Monster name: Su__ o_ Arm___?|Suit of armour 
 Monster name: Sum___ Ele______?|Summer Elemental 
@@ -834,203 +357,619 @@ Monster name: Ter___ D__?|Terror dog
 Monster name: Ter_______?|Terrorbird
 Monster name: Th___?|Thief
 Monster name: Th__?|Thug 
-Monster name: Tok__-K__-D___?|TokTz-Ket-Dill 
-Monster name: Tor_____?|Tortoise
-Monster name: Tor_____ So__?|Tortured Soul 
 Monster name: To___ Ar____?|Tower Archer 
 Monster name: To___ Gu___?|Tower Guard 
-Monster name: Tr___?|Tramp 
+Monster name: Tok__-K__-D___?|TokTz-Ket-Dill 
+Monster name: Tor_____ So__?|Tortured Soul 
+Monster name: Tor_____?|Tortoise
 Monster name: Tr__ Spi___?|Tree spirit
-Monster name: Tri______?|Tribesman 
 Monster name: Tr___ Gen____?|Troll General 
 Monster name: Tr___ Spe______?|Troll Spectator 
+Monster name: Tr___?|Tramp 
+Monster name: Tri______?|Tribesman 
 Monster name: Tro_____ Wag____?|Tropical wagtail 
 Monster name: Ty___ Gu___?|Tyras Guard 
 Monster name: Un____ C__?|Undead Cow 
 Monster name: Un____ Lum_______?|Undead Lumberjack
 Monster name: Un____ Tr___?|Undead Troll
 Monster name: Uni____?|Unicorn
-Monster name: Vam____?|Vampire
 Monster name: Vam____ Juv______?|Vampyre Juvenile
+Monster name: Vam____?|Vampire
 Monster name: Vul____?|Vulture 
-Monster name: War____?|Warrior
 Monster name: War____ Wo___?|Warrior woman
-Monster name: Wat_____?|Watchman
+Monster name: War____?|Warrior
 Monster name: Wat__ Ele______?|Water Elemental 
 Monster name: Wat__ Wiz___?|Water Wizard 
 Monster name: Wat_______?|Waterfiend
+Monster name: Wat_____?|Watchman
 Monster name: Whi__ Kn____?|White Knight
 Monster name: Whi__ Wo__?|White wolf
 Monster name: Wi__ D__?|Wild dog
 Monster name: Win___ Ele______?|Winter Elemental 
 Monster name: Wiz___?|Wizard 
-Monster name: Wo__?|Wolf
-Monster name: Wol____?|Wolfman 
-Monster name: Wol______?|Wolfwoman 
 Monster name: Wo___?|Woman
+Monster name: Wo__?|Wolf
+Monster name: Wol______?|Wolfwoman 
+Monster name: Wol____?|Wolfman 
 Monster name: Y__?|Yak 
 Monster name: Zam____ Cra____?|Zamorak crafter 
 Monster name: Zam____ Ran___?|Zamorak ranger 
 Monster name: Zam____ War____?|Zamorak warrior
 Monster name: Zam____ Wiz___?|Zamorak Wizard
 Monster name: Zog__?|Zogre 
-Monster name: Zom___?|Zombie
 Monster name: Zom___ Ha__?|Zombie hand 
 Monster name: Zom___ Og__?|Zombie Ogre
 Monster name: Zom___ R__?|Zombie rat 
 Monster name: Zom___ Sw__?|Zombie swab 
-After completing all the hard tasks for the Falador Achievement Diary you are given the ability to retore how much prayer everyday with the Falador shield 3?|100% 
-After completing all the hard tasks for the Fremennik Province Achievement Diary you can change the lyre teleport destination to which location?|Waterbirth Island
-What level is a Bronze Dragon?|131
-What level is an Iron Dragon?|189
-What level is a Steel Dragon?|246
-At what level Fishing can you catch Anchovies?|15
-In the Family Crest quest, where does the Chef live?|Catherby
-How many spaces are in your inventory?|28
-What color Party Hat does the Wise Old Man telegrab when he kills a player in the bank recording?|blue
-How many portals are in Castle Wars?|3
-Who do you trade in Castle Wars to buy the Decorative Armours?|Lanthus
-How many Characters can each server/world hold?|2000
-How many Apple Trees are in the Apple Orchard?|30
-Unscramble 'bailtrims'.|brimstail
-Unscramble 'cleora'.|Oracle
-Unscramble 'bakeb resell'.|kebab seller
-Unscramble 'lyda fo eth akel'.|Lady of the Lake
-Unscramble 'ilchainam'.|chainmail
-Unscramble 'siettachei'.|Achietties
-Unscramble 'ralnereg waftarec'.|General Wartface
-Unscramble 'mmyij teh lecihs'.|Jimmy the Chisel
-Unscramble 'dam stitcisen'.|Mad Scientist
-Unscramble 'redi fowl'.|dire wolf
-Unscramble 'gink balck godran'.|king black dragon
-Unscramble 'etiphalk enueq'.|kalphite queen
-Unscramble 'dosamarian'.|Saradomin
-Unscramble 'vagerl'.|Elvarg
+Monster name: Zom___?|Zombie
+Name this God spell - S________ S_____|Saradomin Strike
+Name this God spell C____ O_ G_____|Claws of Guthix
+Near what city is the Legends Guild located?|Ardougne
+Number of emotes that need to be unlocked before you can use them?|14
+On 6/6/06, who was one of the few characters to be able to attack people out of the Wilderness?|durial321
+On what holiday were holiday drops made non-tradable?|Easter
+Praying at the prayer guild gives what advantage over you normal prayer level?|+2
+Putting a teeth halve and loop halve together gives you a what?|Crystal key
+Quest name: Big chompy bird _______?|Hunting
+Quest name: Black knights ________?|Fortress
+Quest name: Cook's _________?|Assistant
+Quest name: Cook's ______|Assistant
+Quest name: Creature of __________|Fenkenstrain
+Quest name: Demon _____?|Slayer
+Quest name: Elemental ________?|Workshop
+Quest name: Ernest the _______?|Chicken
+Quest name: Goblin _________?|Diplomacy
+Quest name: Hazeel ____?|Cult
+Quest name: Holy _____?|Grail
+Quest name: Imp _______?|Catcher
+Quest name: In search of the _______?|Myreque
+Quest name: Jungle ______?|Potion
+Quest name: Merlin's _______?|Crystal
+Quest name: Mountain ________?|Daughter
+Quest name: Murder _______?|Mystery
+Quest name: Nature ______?|Spirit
+Quest name: One small ______?|Favour
+Quest name: Recruitment _____?|Drive
+Quest name: Romeo and ______?|Juliet
+Quest name: Scorpion _______?|Catcher
+Quest name: Shades of ____'___?|Mort'ton
+Quest name: Sheep ______?|Herder
+Quest name: Shield of _____?|Arrav
+Quest name: Temple of ____?|Ikov
+Quest name: The Restless _____?|Ghost
+Quest Name: The Restless _____|Ghost
+Quest name: Throne of ___________?|Miscellania
+Quest name: Tree gnome _______?|Village
+Range armour is strong against what?|Magic
+Range is weak against what?|Melee Armour
+RuneScape History: In 2002, RuneScape members version was released. In what month was it released?|February
+RuneScape's release date?|January 4th, 2001
+Spell: b____ t_ b______|bones to bananas
+Spell: E_______|Entangle
+Telekinetic Grab requires _ air and _ law rune|1 1
+The Bind spell stops the person from moving for how many seconds?|5
+The character limit for RuneScape in-game chat is?|80
+The dark wizards near the Draynor willow trees are what level?|7
+The dogs in the Brimhaven dungeon are what level?|63
+The first re-charge of a crystal bow costs how much?|900k
+The Skull Sceptre teleports you to _________ _______|barbarian village
+This familiar's special allows you to eat raw food, as long as you have the cooking level to cook it.|bunyip
+This item will turn you into a small, colored egg.|Easter ring
+This random event has a hook for a hand.|Cap'n Hand
+This type of charm gives the most Xp per monster|Blue
+To fish lobsters, you need a?|lobster pot
+To make 100 mithril bars, how much coal would you need?|400
+True or false: "Seaweed" is edible?|false
+True or false: Burnt bones give more exp then normal bones when buried.|false
+True or false: Chainbody is stronger than platebody.|false
+True or false: Dragon can be smithed.|false
+True or false: Vampire Slayer is a members only quest.|false
+True or false: When you use one glory amulet on the Heroes guild fountain, all other glories in your inventory are charged also?|false
+True or false: White Knights are Weaker than Black Knights.|false
+True or false: You can find moss giants in the Varrock sewers.|true
+True or false: You can get a Frog Mask.|true
 Unscramble 'amantiteda oer'.|adamantite ore
+Unscramble 'bailtrims'.|brimstail
+Unscramble 'bakeb resell'.|kebab seller
+Unscramble 'cigam etre stoor'.|magic tree roots
+Unscramble 'cleora'.|Oracle
+Unscramble 'dam stitcisen'.|Mad Scientist
+Unscramble 'dosamarian'.|Saradomin
+Unscramble 'etiphalk enueq'.|kalphite queen
+Unscramble 'gink balck godran'.|king black dragon
 Unscramble 'hornozocon'.|Chronozon
+Unscramble 'ilchainam'.|chainmail
 Unscramble 'indobasi'.|obsidian
 Unscramble 'iswe dol nam'.|Wise Old Man
-Unscramble 'cigam etre stoor'.|magic tree roots
-What is the plant called that you can Spin into a Bowstring?|flax
-What can you mine at level 35 Mining?|sandstone
-What level Agility is needed to do the Rogue's Den?|50
-What Spell has the examine info of 'Smelts Ore without a Furnace'?|superheat item
-Name this god spell C____ O_ G_____.|Claws of Guthix
-What are the Mage Robes called where you need to get Bark, Fine Cloth and Money for the Wizard to make?|splitbark
-What is the last Strike spell?|fire strike
-What two Mystic sets are sold in the Magic Guild?|blue and white
-What Material do you need to make an Enchanted Lyre?|golden wool
-What is the first RuneScape Rule?|no offensive language
-What color is the Gem in Glarial's Amulet?|green
-On 6/6/06, who was one of the few characters to be able to attack people out of the Wilderness?|durial321
-What would you use your Talisman on when Runecrafting?|mysterious ruins
-Which are the only Monsters that drop Dragon platelegs and Dragon plateskirt?|metal dragons
-Where would you find Prison Pete?|evil bob's prison
-What is the first monster you face when starting a new account?|giant rat
-What is the second monster you face when starting a new account?|chicken
-How much coal do you need to make a Bronze Bar?|0
-How much coal can the coal trucks above Seers hold?|120
-What level is a Dire Wolf?|88
-What level is Dad?|101
-Where did the Fountain of Heroes used to be in the Heroes Guild?|first floor
-What do you use to kill the Vampire in the Vampire Slayer quest?|stake
-How many points of damage can an Experiment take?|100
-Who is the Wizard that dwells in the basement of the Wizards Tower?|sedridor
-Who is the person who runs the toy store in Draynor Village?|diango
-What was the first Holiday Item that was non-tradeable?|bunny ears
-How many Adamantite Ores are in the Hobgoblin Mine?|7
-What is the most expensive item in RuneScape?|Christmas cracker
-Who is the person who runs the toy store in Draynor Village?|diango
-What was the first Holiday Item that was non-tradeable?|bunny ears
-How many Adamantite Ores are in the Hobgoblin Mine?|7
-What is the most expensive item in RuneScape?|Christmas cracker
-How many small Islands are in the middle of Karamja Volcano?|3
-How many water fountains are at the Monastery?|4
-How many fishing spots does the River Lumbridge have?|6
-How many different keys can you obtain in Melzar's Maze?|6
-How old is the Gypsy in Varrock?|336
-How many Lesser Demons are on Crandor Isle (not beneath it)?|2
-What is the highest damage you can deal with Fire Strike?|8
-What Magic spell can you cast at 39 Magic?|crumble undead
-What is the type of metal weapons needed in "In Search of the Myreque"?|steel
-In what quest must you use a vial of honey, a distillator and rotten meat?|biohazard
-What level are the wizards in the Wizards Tower?|9
-If I went east from Port Sarim, where would I be?|Draynor village
-What fishing level is the minimum for using a fly fishing rod?|20
-How many Runecraft Altars are there in non-members worlds?|6
-What two types of bows can any player can use?|shortbow and longbow
-What is the first fish that you can catch?|shrimp
-True or False: Vampire Slayer is a members only quest.|false
-Where is the only mace shop in 'RuneScape' located?|Falador
-True or False: You can find moss giants in the Varrock sewers.|true
-What level must you have to smith a rune dagger?|85
-What colour is rune armour?|teal
-True or False: Chainbody is stronger than platebody.|false
-What is the best tree a non-member can cut down?|yew
-True or False: You can get a Frog Mask.|true
-True or False: White Knights are Weaker than Black Knights.|false
-How many party hats are there in a set?|6
-Which party hat is currently the most expensive?|blue
-Which is the most expensive liquid in RuneScape?|half wine
-How many seed stalls are there in Draynor Village?|2
-What does a ghast leave in your inventory if it attacks you?|rotten food
-What does dm stand for?|death match
-What weapon keeps a man from turning into a werewolf?|wolfbane
-What is the examine info of a Willow Tree Stump?|This is what is left of a willow tree
-The dark wizards near the Draynor willow trees are what level?|7
-What is the examine info of a regular cut gem?|This looks valuable
-This item will turn you into a small, colored egg.|Easter ring
-How many stone items are required to charge a Pharaoh's Sceptre?|12
-When you use a red firelighter on a log, it becomes a what?|Red Log
-This familiar's special allows you to eat raw food, as long as you have the cooking level to cook it.|bunyip
-How many Rune Ess would be required to get 99 Runecrafting off Air Runes?|2,606,887
-This random event has a hook for a hand.|Cap'n Hand
-A pack yak can hold how many items?|30
-What two places can you get a dusty key?|Legends guild and Taverly dungeon
-In which skill would you add an irit leaf to a waterfilled vial?|Herblore
-You need this type of charm if you plan on making a Terrorbird Pouch.|Gold
-Which skill reflects how much health you have left?|Hitpoints
-What shield requires a 2 minute cool-down period after using it?|Dragonfire Shield
-What amulet gives the highest magic bonus?|3rd Age amulet
-What must you do to a herb before you can use it in a potion?|identify it
-Quest name: Cook's ______|Assistant
-If you were to lose your amulet of Catspeak, who would you have to talk to in order to receive it again?|The Sphinx in Sophanem
-What is the 100% drop on a Lesser Demon?|Ashes
-What item allows you to attack using melee from a distance of two squares?|Halberd
-What item teleports you to Al kharid, Draynor, Edgeville,and Karamja?|Amulet of Glory
-What smithing level is required to make a rune dagger?|85
-Who can recharge your Crystal bow?|Ilfeen
-Blue, Red, White, Green, Purple, and what is the last color of party hat?|Yellow
-If you see a silver crown next to a player name, this signals they are a..|player moderator
-This type of charm gives the most Xp per monster|Blue
-True or False: When you use one glory amulet on the Heroes guild fountain, all other glories in your inventory are charged also?|False
+Unscramble 'lyda fo eth akel'.|Lady of the Lake
+Unscramble 'mmyij teh lecihs'.|Jimmy the Chisel
+Unscramble 'ralnereg waftarec'.|General Wartface
+Unscramble 'redi fowl'.|dire wolf
+Unscramble 'siettachei'.|Achietties
+Unscramble 'vagerl'.|Elvarg
 Unscramble: hcginelft|fletching
-What level is required to cast high level alchemy?|55
-If you have 1 million xp in any skill, you are level __ in that skill?|73
-The dogs in the Brimhaven dungeon are what level?|63
-What combat level is a Hero?|69
-You would use what to grind a chocolate bar?|pestle and mortar
-What level is a Greater Demon?|92
-What level is an Iron dragon?|189
-Where is lucien after you complete the Temple of Ikov quest?|Ardougne Bar
-Which cities bar sell mind bomb's?|Falador
-How much does it cost to convert a oak plank?|250gp
-What is the high-alch value of a green dragonhide body?|4680
-A toadflax seed will yield what herbs?|toadflax
-You need how many pages to complete a God Prayer book?|4
-You get gilded items from what?|Treasure trails
-You need to put tree seeds in a ____ before planting them.|Plant pot
-What item increases growth percentage of herbs?|compost
-The first re-charge of a crystal bow costs how much?|900k
 Unscramble: labelndano edes|belladonna seed
+Varrock Teleport requires _ air, _ fire, and _ law rune|3 1 1
+What Agility is required to do Regicide?|56
+What Agility level do you need to cross the ledge in the Agility dungeon?|45
+What amulet gives the highest magic bonus?|3rd Age amulet
+What are feathers used for in the free worlds?|fly fishing
+What are the 4 elemental runes in alphabetical order|air earth fire water
+What are the Mage Robes called where you need to get Bark, Fine Cloth and Money for the Wizard to make?|splitbark
+What are the majority of rocks in the mining guild?|Coal
+What are the majority of the rocks in the miners guild?|coal
+What are the names of the guards in Al Kharid?|warriors
+What are the strongest type of giants?(members)|fire
+What beer will raise your Mining and Smithing level by 1 each?|Dwarven stout
 What bonus does a Gilded altar with both burners lit give?|350%
-Praying at the prayer guild gives what advantage over you normal prayer level?|+2
-To fish lobsters, you need a?|lobster pot
-A ring that increases rare drops is known as?|Ring of wealth
-Putting a teeth halve and loop halve together gives you a what?|Crystal key
-Which skill effects how often you'll get hit?|Defence
+What came into the game first, fishing or mining?|mining
+What can be used in place of air runes?|air staff
+What can you mine at level 35 Mining?|sandstone
+What can you steal from a scimitar stall?|scimitars
+What city do you start in when you arrive from Tutorial Island?|Lumbridge
+What city does the silk dealer reside in?|Al Kharid
+What city has a clothes shop in it?|Varrock
+What city is in the desert?|Al Kharid
+What city is the dwarven mines under?|Falador
+What colour is rune armour?|teal
+What colour is the dragon in Dragon Slayer?|green
+What colour is the Gem in Glarial's Amulet?|green
+What colour is the liquid of a Super Attack Potion?|blue
+What colour Party Hat does the Wise Old Man telegrab when he kills a player in the bank recording?|blue
+What combat level is a Hero?|69
+What Cooking level is required to bake Bread?|1
+What cooking level is required to cook Sharks?|80
+What crafting level do you need to make diamond amulet|70
+What crafting level do you need to make dragonstone amulet?|80
+What crafting level do you need to make glass vials?|33
+What Crafting level do you need to make Red Dragonhide Body?|77
+What crafting level is needed to make a Diamond Amulet?|70
+What crafting level is needed to make a Dragonstone Amulet?|80
+What crafting level is needed to make a Ruby Amulet?|50
+What crafting level is needed to make a Sapphire Amulet?|24
+What Crafting level is required to make a Dragonstone Amulet?|80
+What Crafting level is required to make a Sapphire Amulet?|24
+What Defence level is needed to wear mithril armour?|20
+What did Edgeville used to be called?|ghost town
+What did the bank used to be called?|The Bank of Varrock
+What do ghosts drop?|nothing
+What do quest do you need to complete to be able to use Herblore?|druidic ritual
+What do scorpions drop?|charms
+What do the crossed swords in the lower right corner of the screen mean?|Multicombat
+What do you add to cake to make chocolate cake?|chocolate bar
+What do you add to irit leaf to make antidote?|ground unicorn horn
+What do you add to tarromin to make strength potion?|limpwurt
+What do you bury to advance prayer levels?|bones
+What do you get from cutting down trees?|logs
+What do you need to catch bass?|big net
+What do you need to catch lava eel (Hero's Guild Quest)?|oily fishing rod
+What do you need to catch swordfish?|harpoon
+What do you need to get the firebird feather?|ice gloves
+What do you need to kill Count Draynor?|stake
+What do you need to make Leather?|Cow hide
+What do you use to kill the Vampire in the Vampire Slayer quest?|stake
+What do you use to turn wool into a ball of yarn?|Spinning wheel
+What does "H.A.M." stand for?|Humans Against Monsters
+What does a ghast leave in your inventory if it attacks you?|rotten food
+What does an examined beehive say?|Where bees live
+What does an examined Oak say?|A Beautiful Old Oak
+What does an examined Zamorak Full Helm say?|Rune Full Helm in the Colours of Zamorak.
+What does dm stand for?|death match
+What does it say when you examine 43536236 Coins?|43536236 x coins
+What does it say when you examine a Cow?|It's a dairy cow.
+What does it say when you examine a man?|one of RuneScapes many citizens
+What does it say when you examine a Ruined Pillar?|An old crumbled pillar
+What does Katrine want you to bring her? (Shield of Arrav)|2 Phoenix crossbows
+What does Redbeard Frank want in the Pirate Treasure quest?|Karamja rum
+What does the examination of the archer close to Draynor say?|She looks quite experienced.
+What does the Restless Ghost need to be able to rest?|skull
+What does the skull and crossbones at the bottom right of the screen mean?|Wilderness
+What enemy is in the top floor of the Wizards Tower other than Wizards?|Lesser Demon
+What Fishing level do you need for Hero's Quest?|53
+What Fishing level do you need to get into the Fishing Guild (with a Fishing potion)?|65
+What Fishing level is required to enter the Fishing Guild?|68
+What fishing level is the minimum for using a fly fishing rod?|20
+What Fletching level do you need to make a Magic Longbow?|85
+What Fletching level do you need to make Adamant Darts?|67
+What fletching level do you need to make Rune Arrows?|75
+What free to play quest is required to start the skill Runecraft?|Rune Mysteries
+What gem does a Ring of Recoil require?|Sapphire
+What gem stone is Enchant Level 4 Jewelry associated with?|Diamond
+What herb can you identify at level 65 Herblore?|Cadantine
+What herb do you need to make defence potion?|ranarr
+What herb do you need to make fishing potion?|avantoe
+What herb do you need to make ranging potion?|dwarf weed
+What herb do you need to make super attack?|irit
+What herb do you need to make super strength potion?|kwuarm
+What Herblore level do you need to identify Avantoe?|48
+What Herblore level do you need to identify Dwarf weed?|70
+What Herblore level do you need to identify guam?|3
+What Herblore level do you need to identify Kwuarm?|55
+What Herblore level do you need to identify marrentill?|5
+What Herblore level do you need to identify ranarr?|25
+What Herblore level do you need to identify Tarromin?|11
+What Herblore level do you need to identify torstol?|75
+What Herblore level do you need to make fishing potion?|50
+What Herblore level do you need to make ranging potion?|72
+What Herblore level do you need to make restore prayer potion?|38
+What Herblore level do you need to make super strength potion?|55
+What Herblore level is required to make Anti Fire-breath Potions?|69
+What high level monsters are in the back of the Varrock sewers?|moss giants
+What is Damis the Shadow Warrior's max hit?|28
+What is needed to obtain a piece of the prince outfit?|Frog Token
+What is smelted with copper to make bronze?|tin
+What is the 100% drop on a Lesser Demon?|Ashes
+What is the bank called?|The Bank of RuneScape
+What is the best melee armor a non-member can use?|rune
+What is the best tree a non-member can cut down?|yew
+What is the best type of axe?|dragon
+What is the best type of shield sold in the shield shop?|mithril square
+What is the best type of sword sold in the sword shop?|adamantite long
+What is the black knight's "secret weapon" in the Black Knights quest?|invincibility potion
+What is the character limit for RuneScape in-game chat?|80
+What is the city north of the Barbarian Village?|Edgeville
+What is the common name for an inexperienced player?|noob
+What is the description of Rock Skin?|Increases your defence by 10
+What is the Dragon Dagger special attack called?|puncture
+What is the dragon's name in the Dragon Slayer quest?|Elvarg
+What is the examine info of a Level 56 Cyclops?|A one-eyed man eater
+What is the examine info of a regular cut gem?|This looks valuable
+What is the examine info of a Willow Tree Stump?|This is what is left of a willow tree
+What is the examine info of a Zoo keeper?|Enjoys locking up animals in small pens
+What is the first fish that you can catch?|shrimp
+What is the first monster you face when starting a new account?|giant rat
+What is the first RuneScape Rule?|no offensive language
+What is the first spell you cast?|Wind Strike
+What is the first type of weapon you can smith with each metal?|dagger
+What is the first weapon you can smith?|Bronze Dagger
+What is the high-alch value of a green dragonhide body?|4680
+What is the highest combat level in RuneScape 2?|126
+What is the highest combat level in RuneScape Classic?|123
+What is the highest damage you can deal with Fire Strike?|8
+What is the highest level any random can be?|159
+What is the highest level in the wilderness (Free World)?|48
+What is the highest number of quest points you can get as a free player?|39
+What is the last spell on the normal spells list?|Teleother Camelot
+What is the last Strike spell?|fire strike
+What is the magic bonus given by Wizard Boots? (Not including the +)|4
+What is the maximum number of players a free player can have on their friends list?|100
+What is the maximum total level?|1881
+What is the most expensive item in RuneScape?|Christmas cracker
+What is the name of Ernest’s Wife?|Veronica
+What is the name of level 10 prayer?|RockSkin
+What is the name of level 13 prayer?|Superhuman Strength
+What is the name of level 22 prayer?|Rapid Heal
+What is the name of level 28 prayer?|SteelSkin
+What is the name of level 40 prayer?|Protect from Missiles
+What is the name of level 43 prayer?|Protect from Melee
+What is the name of level 7 prayer?|clarity of thought
+What is the name of the archery store in Varrock?|Lowe's Archery Emporium
+What is the name of the chain mail shop?|Wayne’s Chains
+What is the name of the chainmail store?|Wayne's Chains
+What is the name of the chicken you help in a quest?|Ernest
+What is the name of the curved sword?|scimitar
+What is the name of the demon in Demon Slayer?|Delrith
+What is the name of the first island made?|Tutorial Island
+What is the name of the guard who is helping guard Prince Ali?|Joe
+What is the name of the leader of Al Kharid?|Hassan
+What is the name of the ore involved in "The Knight's Sword" quest?|blurite
+What is the name of the person who sells axes in Lumbridge?|bob
+What is the name of the person who sells axes in Port Sarim?|Brian
+What is the name of the plant used to make bowstrings?|flax
+What is the name of the pub by the edge of the wilderness?|jolly boar inn
+What is the name of the pub in Varrock?|blue moon inn
+What is the name of the river that goes through the desert?|River Elid
+What is the name of the third island made?|Crandor
+What is the name of the witch who lives in Rimmington?|Hetty
+What is the name of the witch who lives in the Draynor area?|aggie
+What is the only skill in which you cannot do or make anything at level 1?|Herblore
+What is the plant called that you can Spin into a Bowstring?|flax
+What is the random called where you get a strange box?|mysterious old man
+What is the second monster you face when starting a new account?|chicken
+What is the strongest type of giant in the free worlds?|Ice
+What is the total maximum hit of a Magic Shortbow special?|46
+What is the type of metal weapons needed in "In Search of the Myreque"?|steel
+What is the weakest armor?|bronze
+What is used to make blue dye?|woad leaves
+What is used to make green dye?|blue and yellow
+What is used to make orange dye?|red and yellow
+What is used to make purple dye?|red and blue
+What is used to make red dye?|redberries
+What is used to make yellow dye?|onions
+What is your hitpoints level throughout tutorial island?|10
+What item allows you to attack using melee from a distance of two squares?|Halberd
+What item do you need to pick up a Fire Feather?|Ice Gloves
+What item increases growth percentage of herbs?|compost
+What item teleports you to Al kharid, Draynor, Edgeville,and Karamja?|Amulet of Glory
+What items must you collect for Imp Catcher?|beads
+What level agility do you need to gain access to the barbarian outpost course?|35
+What level Agility is needed for Dwarven Mine shortcut?|42
+What level Agility is needed for Falador shortcut?|6
+What level Agility is needed for Port Phasmatys to Ectopool shortcut?|58
+What level Agility is needed to do the Rogue's Den?|50
+What level agility is needed to enter the werewolf course?|60
+What level agility is needed to enter the wilderness course?|52
+What level agility is required to complete the Werewolf Skullball Course?|25
+What level are Chickens?|1
+What level are Ghouls?|42
+What level are the wizards in the Wizards Tower?|9
+What level are white knights?|36
+What level crafting do you need to get into the crafting guild?|40
+What level do you need to smith addy plate?|88
+What level do you need to smith mithril plate?|68
+What level do you need to smith rune plate?|99
+What level do you need to smith steel plate?|48
+What level fishing do you need to get into the fishing guild?|68
+What level fletching do you need to make mithril arrows?|45
+What level fletching do you need to make rune arrows?|75
+What level Fletching is required to make Steel Darts?|37
+What level is a Baby Blue Dragon?|48
+What level is a Baby Red Dragon?|65
+What level is a Black Demon?|172
+What level is a Black Knight?|33
+What level is a Black Unicorn?|27
+What level is a Blue Dragon?|111
+What level is a Bronze Dragon?|131
+What level is a Chaos Dwarf?|48
+What level is a Chicken?|1
+What level is a cow?|2
+What level is a Dagganoth?|90
+What level is a Dark Warrior?|8
+What level is a Dire wolf?|88
+What level is a Dire Wolf?|88
+What level is a farmer?|7
+What level is a Giant Rat?|3
+What level is a Greater Demon?|92
+What level is a Green Dragon?|79
+What level is a Hero?|69
+What level is a highwayman?|5
+What level is a Hill Giant?|28
+What level is a Iron Dragon?|189
+What level is a Jungle Spider?|44
+What level is a Knight of Ardougne?|46
+What level is a Lesser Demon|82
+What level is a Lumbridge Goblin?|2
+What level is a man?|2
+What level is a Man?|2
+What level is a mugger?|10
+What level is a Rock Crab?|13
+What level is a Soulless?|18
+What level is a Steel Dragon?|246
+What level is a unicorn?|21
+What level is an Ice Giant?|53
+What level is an Iron dragon?|189
+What level is an Iron Dragon?|189
+What level is Dad?|101
+What level is Dagganoth Rex?|303
+What level is Elvarg?|83
+What level is it to craft Blue Dragonhide Chaps?|68
+What level is needed to catch bass?|46
+What level is needed to catch lava eel(Hero's Guild Quest)?|53
+What level is needed to catch lobster?|40
+What level is needed to catch salmon?|30
+What level is needed to catch shark?|76
+What level is needed to cook lava eel (Hero's Guild Quest)?|53
+What level is needed to cook lobster?|40
+What level is needed to steal silk?|20
+What level is required to cast high level alchemy?|55
+What level is the witch in Al Kharid?|25
+What level magic do you need for Ardougne Teleport?|51
+What level magic do you need for Camelot Teleport?|45
+What level magic do you need for Falador Teleport?|37
+What level magic do you need for Varrock Teleport?|25
+What level magic is needed to cast Charge spell?|80
+What level magic is needed to cast Teleblock?|85
+What level Mining do you need to mine Coal?|30
+What level mining is required to get in the Mining Guild?|60
+What level must you have to smith a rune dagger?|85
+What level prayer do you need to get into the prayer guild?|31
+What level Runecrafting do you need to make Law runes?|54
+What level Runecrafting do you need to make Nature runes?|44
+What level smithing do you need to make a steel plate?|48
+What level thieving is required to pickpocket Warriors?|25
+What level thieving is required to steal from the blood chest?|59
+What level woodcutting do you need to cut magic trees?|75
+What level woodcutting do you need to cut maple trees?|45
+What level woodcutting do you need to cut willow trees?|30
+What level woodcutting do you need to cut yew trees?|60
+What magic level is required for High Level Alchemy?|55
+What Magic level is required to enter the Magic Guild?|66
+What Magic spell can you cast at 39 Magic?|crumble undead
+What magic spell can you cast at level 49 magic?|Enchant lvl-3 Jewelry
+What magic spell can you do at level 20?|Bind
+What magic spell can you do at level 37?|Falador teleport
+What magic spell can you do at level 45?|Camelot Teleport
+What magic spell can you do at level 56?|charge water orb
+What magic spell can you do at level 73?|Enfeeble
+What magic spell lets you teleport someone else?|Teleother
+What Material do you need to make an Enchanted Lyre?|golden wool
+What materials do you need for a Ranging Potion? (HERB and 2nd ITEM)|Dwarf Weed and Wine of Zamorak
+What members skill involves creating archery items?|fletching
+What members skill involves making potions?|Herblore
+What members skill involves taking items from market stalls?|thieving
+What metal is a holy symbol made from?|silver
+What mini-game is required to use the God Spells?|Mage Arena
+What Mining level do you need to get into the Mining Guild?|60
+What mining level is required to mine Runite?|85
+What Mining level would you need to mine Coal with a Dwarven Stout?|29
+What monster do you have to fight in the Witches House|shapeshifter
+What monster drops beads?|Imps
+What monster drops rune larges?|greater demon
+What monster drops rune medium helms?|lesser demon
+What monster drops spinach rolls?|moss giants
+What monsters are found at the back of the Edgeville dungeon?|giants
+What monsters are in the caves of Lost City? (Besides Fairies)|otherworldly beings
+What must you do to a herb before you can use it in a potion?|identify it
+What percent will a Super Attack Potion increase your Attack?|20
+What percent will a Super Strength Potion increase your Attack?|0
+What points to the pirate's treasure?|a statue
+What Prayer can you use at level 1?|Thick Skin
+What prayer can you use at level 10?|Rock Skin
+What Prayer can you use at level 34?|Incredible Reflexes
+What prayer level must you have to Bless Holy and Unholy Symbols?|50
+What programming language is RuneScape made in?|Java
+What quest do you have to do to wield a Dragon Longsword?|Lost City
+What quest do you need to do to wield a Dragon Halberd?|Regicide
+What quest is required to have the right to wear the green dragonhide body?|Dragon Slayer
+What quest rewards you with Oyster Pearls?|sea slug
+What range level do you need to get into the Range Guild?|40
+What Range level is required to wear Ranger Boots?|40
+What Ranging level must you have in order to use a dwarf cannon?|1
+What ring turns you into a rock?|Ring of Stone
+What rune do you need to cast a blast spell?|Death
+What rune is required for alchemy spells|nature
+What rune is required for amulet enchantment spells?|cosmic
+What rune is required for blast spells?|death
+What rune is required for bolt spells|chaos
+What rune is required for curse spells|body
+What rune is required for strike spells|mind
+What rune is required for teleport spells?|law
+What says this when you examine it "I doubt that was built to last..."?|heap of bricks
+What shield requires a 2 minute cool-down period after using it?|Dragonfire Shield
+What ship do you take to Crandor Isle|Lady Lumbridge
+What skill does emerald amulet increase?|defence
+What skill does holy symbol increase?|prayer
+What skill does monk's robes increase?|prayer
+What skill does ruby amulet increase?|strength
+What skill does sapphire amulet increase?|magic
+What skill is above fishing on your stats menu?|smithing
+What skill is used in making holy symbols?|crafting
+What smithing level is required to make a rune dagger?|85
+What special ore do you need to make the sword in the knight's sword quest?|blurite
+What special ore is requires to make the sword in the Knight’s Sword Quest?|Blurite
+What spell allows you to convert items to gold?|alchemy
+What spell can you cast at 66 magic?|Vulnerability
+What Spell has the examine info of 'Smelts Ore without a Furnace'?|superheat item
+What spell is used to keep your target from teleporting?|Teleblock
+What thieving level do you need to pickpocket guards?|40
+What thieving level do you need to pickpocket master farmers?|38
+What thieving level do you need to pickpocket rogues?|32
+What thieving level do you need to pickpocket warriors?|25
+What thieving level do you need to search for traps on blood rune chest?|59
+What thieving level do you need to search for traps on nature rune chest?|28
+What thieving level do you need to steal cake?|5
+What thieving level do you need to steal fur?|35
+What thieving level do you need to steal gems?|75
+What thieving level do you need to steal silver?|50
+What Thieving level is required to pickpocket a Guard?|40
+What three ores does Doric ask you to bring him?|clay copper iron
+What town do you start in?|Lumbridge
+What town is on Karamja?(members)|Brimhaven
+What town is the helmet shop in?|barbarian village
+What town is the legs shop in?|Al Kharid
+What town is the mace shop in?|Falador
+What town is the shield shop in?|Falador
+What town is the skirt shop in?|Al Kharid
+What town is the staff shop in?|Varrock
+What two Mystic sets are sold in the Magic Guild?|blue and white
+What two places can you get a dusty key?|Legends guild and Taverly dungeon
+What two types of armour can any player wear, no matter what level?|bronze and iron
+What two types of bows can any player can use?|shortbow and longbow
+What type of bow is needed to shoot mithril arrows?|willow
+What type of bow is needed to shoot rune arrows?|yew
+What type of rune do you need for blast spells?|Death
+What type of rune do you need for strike spells?|Mind
+What type of tree can you cut at level 60 woodcutting?|Yew
+What type of trees can you cut at level 1 Woodcutting?|normal
+What was RuneScape called before 'RuneScape'?|Devious MUD
+What was the first Holiday Item that was non-tradeable?|bunny ears
+What weapon is given to you to kill Viyeldi in Legends Quest?|Black Dagger
+What weapon keeps a man from turning into a werewolf?|wolfbane
+What will ruin the potion in the Black Knights Fortress quest?|cabbage
+What Woodcutting level do you need to cut Magic trees?|75
+What would you use your Talisman on when Runecrafting?|mysterious ruins
+What year was you able to get a Scythe as a Holiday drop?|2003
+When did RuneScape 3D Beta come out?|December 1
+When you die where do you respawn?|Lumbridge
+When you reach level 99 in a skill, what exp does it say for next level?|14,391,160
+When you transfer a brand new RSC account to RS2, how many Hitpoints will you have?|9
+When you use a red firelighter on a log, it becomes a what?|Red Log
+Where can you buy a Dragon Battle Axe?|Heroes Guild
+Where can you buy iron legs other than Al Kharid?|Varrock
+Where can you find red worms|McGrubors Wood
+Where can you find the chainmail shop?|Falador
+Where can you find white berries?|Red dragon lava lake
+Where can you steal silk from?|Ardougne
+Where did the Fountain of Heroes used to be in the Heroes Guild?|first floor
+Where do chocolate bars respawn?|Zanaris
+Where do tomatoes and cheese respawn?|Draynor
+Where do you buy halberds?|Isafdar
+Where do you charge an Amulet of Glory?|heroes guild
+Where do you go to Runecraft Law Runes?|Entrana
+Where do you need to be to charge a water orb?|water obelisk
+Where do you start the quest Imp Catcher?|Wizards Tower
+Where do you start the Tree Gnome Village quest?|tree gnome village
+Where does Ghorrok Teleport take you?|Level 45 Wilderness
+Where is Councillor Halgrive located at?|Ardougne
+Where is lucien after you complete the Temple of Ikov quest?|Ardougne Bar
+Where is rum sold?|Karamja
+Where is the apothecary?|Varrock
+Where is the archery shop in the free worlds?|Varrock
+Where is the armor shop?|Varrock
+Where is the cooking range that decreases the burn rate located at?|Lumbridge Castle
+Where is the gem shop?|Falador
+Where is the Magic Guild?|Yanille
+Where is the members archery shop?|Catherby
+Where is the mining supplies shop?|Dwarven Mine
+Where is the only mace shop in 'RuneScape' located?|Falador
+Where is the only place Non-Members can fish for Lobsters?|Karamja
+Where would you find Jimmy the Chisel?|HAM Prison
+Where would you find Prison Pete?|evil bob's prison
+Which are the only Monsters that drop Dragon platelegs and Dragon plateskirt?|metal dragons
+Which armour is all red?|dragon
+Which cities bar sell mind bomb's?|Falador
+Which city has the sheep catcher quest in it?|Ardougne
+Which is the most expensive liquid in RuneScape?|half wine
+Which item used to be smithable but no longer is?|Pickaxe
+Which monster drops beads?|Imp
+Which party hat is currently the most expensive?|blue
 Which skill effects how hard you'll hit?|Strength
+Which skill effects how often you'll get hit?|Defence
+Which skill reflects how much health you have left?|Hitpoints
+Which skill took the longest for the first person to reach level 99?|Prayer
+Who can recharge your Crystal bow?|Ilfeen
+Who can you buy rope from?|Ned
+Who changes cow hides for leather?|tanner
+Who do you get Karamja rum for?|Redbeard Frank
+Who do you have to kill to acquire ice gloves?|ice queen
+Who do you have to talk to to get into Al Kharid through the gate?|border guard
+Who do you need to talk to to start the Biohazard quest?|Elena
+Who do you need to talk to to start the Hero's quest?|Achietties
+Who do you pay to get into the Brimhaven dungeon?|Saniboch
+Who do you shear sheep for in the sheep shearing quest?|Farmer Fred
+Who do you talk to in the vampire quest?|Morgan
+Who do you talk to start the Shilo Village Quest?|Mosol
+Who do you talk to to start the Grand Tree quest|King Narnode Shareen
+Who do you trade in Castle Wars to buy the Decorative Armours?|Lanthus
+Who founded RuneScape?|Andrew Gower
+Who has the first Silverlight key?|Sir Prysin
+Who has the second Silverlight key?|Captain Rovin
+Who has the third Silverlight key?|Wizard Traiborn
+Who is believed to be Zamorak's son?|Iban
+Who is holding Prince Ali hostage in the Al Kharid Rescue quest?|Lady Keli
+Who is Iban?|Son of Zamorak
+Who is the Jagex cat?|Bob
+Who is the leader of the barbarians in barbarian village?|Gunthor the Brave
+Who is the leader of the Black Arm Gang?|Katrine
+Who is the person who runs the toy store in Draynor Village?|diango
+Who is the Varrock Castle Librarian?|Reldo
+Who is the Wizard that dwells in the basement of the Wizards Tower?|sedridor
+Who owns RuneScape?|Jagex LTD
+Who pilots the Lady Lumbridge for you?|Ned
+Who runs the banana plantation?|Luthas
+Who runs the Catherby fishing store?|Harry
+Who runs the eastern anvils and a small store in Varrock?|Horvik
+Who runs the members Archery Store|Hickton
+Who sells armor in Varrock?|Horvik
+Who sells rune plate mail?|Oziach
+Who sells woad leaves?|Wyson
+Who sends the Black Demon after you in the Grand Tree Quest?|Glough
+Who turned Ernest into a chicken?|Mad Scientist
+Who will Enchant your battle staff for you?|Thormac
+Who will give you a job at the Port Sarim food store?|Wydin
 Who will take your long bones?|Barlak
-True or False: "Seaweed" is edible?|False
-Quest name: Big chompy bird _______?|Hunting
-Monster name: Og__ Sha___?|Ogre Shaman
+You get gilded items from what?|Treasure trails
+You need how many pages to complete a God Prayer book?|4
+You need this type of charm if you plan on making a Terrorbird Pouch.|Gold
+You need to put tree seeds in a ____ before planting them.|Plant pot
+You would use what to grind a chocolate bar?|pestle and mortar
