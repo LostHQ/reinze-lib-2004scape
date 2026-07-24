@@ -16,13 +16,13 @@ Anagram: Who is this person? ok co?|cook
 Anagram: Who is this person? peaty pert?|party pete
 Ardougne guards are level?|20
 Ardougne Teleport requires _ water and law runes|2
-As well as Teleporting you to various places, the Amulet of Glory also increases the chance of getting a ___ while mining.|Gem
+As well as teleporting you to various places, the Amulet of Glory also increases the chance of getting a ___ while mining.|Gem
 At what Agility level can you play Gnomeball?|1
 At what Defence level can you wear a Rune Platebody?|40
 At what Fishing level are you able to fish for Sharks?|76
-At what level can you fish a Manta Ray?|81
-At what level Fishing can you catch Anchovies?|15
-At what Mining level can you mine gold?|40
+At what Fishing level can you catch Anchovies?|15
+At what Fishing level can you fish a Manta Ray?|81
+At what Mining level can you mine Gold?|40
 At what Mining level can you mine Silver?|20
 At what Smithing level can you smith a Steel Scimitar?|35
 At what Thieving level can you steal from Cake Stalls?|5
@@ -32,23 +32,18 @@ City: A_ K_____|Al Kharid
 Completing the Tree Gnome Village quest allows you to use the Spirit Trees to ___________?|teleport
 Doing Dragon Slayer quest allows you to wear what type of platebody?|Rune
 Falador Teleport requires _ air, _ water, and _ law rune|3 1 1
-Finish this quote: "I sell axes, take your ______"|pick
+Finish this quote: "I buy and sell axes! Take your ____ (or axe)!"|pick
 Food: k____|kebab
-From level 1 to level 73 is about how much xp?|1 million
-Gilded armor has the same stats as what?|rune
-Holy symbol of ______?|Saradomin
-How many Adamantite Ores are in the Hobgoblin Mine?|7
+From level 1 to level 73 in a skill is about how much xp?|1 million
+Gilded armour has the same stats as what?|rune
+Holy Symbol of ______?|Saradomin
+How many Adamantite Ores are in the Bandit Camp mine (or the Hobgoblin Mine)?|7
 How many animals in the Ardougne Zoo?|40
-How many Apple Trees are in the Apple Orchard?|30
 How many banks are in Ardougne?|2
-How many cannons does Lumbridge Castle have?|9
 How many casts must you use before you can use a God Spell outside of the arena?|100
 How many characters are allowed in your RuneScape nickname?|12
 How many Characters can each server/world hold?|2000
 How many charges can an Amulet of Glory have?|4
-How many charges does the skull sceptre have?|5
-How many clay do you need for Doric's quest?|6
-How many coal do you need for Doric's quest?|0
 How many coal rocks are there at barbarian village?|4
 How many coal rocks are there in the mine south of Varrock?|0
 How many coal rocks are there in the mine west of Varrock?|3
@@ -59,62 +54,53 @@ How many different types of 'Sick-looking sheep' are there?|4
 How many different types of runes are there?|13
 How many fishing spots are there at Draynor Village?|2
 How many fishing spots does the River Lumbridge have?|6
-How many gp are equal to one K?|1000
-How many gp do you have to pay to get to Karmaja?|30
-How many gp does a Yew Longbow high alch for?|768
-How many gp must you get for your money to be labeled "K" instead of "GP" in your inventory?|100000
 How many Halloween masks are there?|3
 How many Hitpoints does an Ice Warrior have?|59
-How many iron do you need for Doric's quest?|2
-How many items are certificates redeemable for?|5
 How many items do you keep after you have been killed without a skull or protection prayers?|3
 How many Lesser Demons are on Crandor Isle (not beneath it)?|2
-How many map pieces do you need to get in the Dragon Slayer quest?|3
-How many mithril rocks are there in the miners guild(now)?|6
+How many map pieces are needed in the Dragon Slayer Quest?|3
+How many mithril rocks are there in the Mining Guild?|5
 How many names can Free to Play players add to their Buddy list?|100
-How many normal logs does a new character have to cut to get level 2 woodcutting?|4
+How many normal logs does a new character have to cut to get level 2 Woodcutting?|4
 How many party hats are there in a set?|6
-How many pieces are there to a cannon?|4
-How many pieces fit together to make the Skull Sceptre?|4
+How many pieces are there to the Dwarf Multicannon?|4
 How many planks do you need for the Dragon Slayer quest?|3
 How many points of damage can an Experiment take?|100
-How many portals are in Castle Wars?|3
 How many Quest Points are needed to enter the Champions Guild?|32
-How many Quest Points do you need for the Champions' Guild?|32
-How many quest points must you have to do the black knight's quest?|12
-How many Rune Ess would be required to get 99 Runecrafting off Air Runes?|2,606,887
+How many Quest Points must you have to do the black knight's quest?|12
 How many Runecraft Altars are there in non-members worlds?|6
-How many seconds does a Bind hold your target?|5
-How many seed stalls are there in Draynor Village?|2
-How many shots does a fully recharged crystal bow have?|2500
-How many slices are there per cake?|3
-How many small Islands are in the middle of Karamja Volcano?|3
+How many seconds does Bind hold your target?|5
+How many slices are there per Cake?|3
+How many small islands are in the middle of Karamja Volcano?|3
 How many spaces are in your inventory?|28
-How many stone items are required to charge a Pharaoh's Sceptre?|12
 How many times do you have to complete the Gnome Stronghold Agility Course to get from 1 Agility to 99?|151,564
-How many total skills are there?|24
-How many types of ores are there?|9
+How many total skills are there?|19
+How many types of ores are there (that have "ore" in the name)?|9
 How many water fountains are at the Monastery?|4
 How many weapons have special attacks?|11
 How much bank space do members have?|240
-How much coal can the coal trucks above Seers hold?|120
-How much coal do you need to make a Bronze Bar?|0
-How much coal goes with an ore to make a addy bar?|6
-How much coal goes with an ore to make a mith bar?|4
-How much coal goes with an ore to make a rune bar?|8
-How much coal goes with an ore to make a steel bar?|2
-How much cooking experience do you receive for baking a chocolate cake?|210
-How much do the Dward Multicannon pieces cost separately?|200k
-How much do you pay to get into the Brimhaven dungeon?|875gp
-How much does 1 piece of pineapple pizza heal?|11
-How much does it cost to convert a oak plank?|250gp
-How much does it cost to have a battle staff enchanted?|40k
+How much Clay do you need for Doric's quest?|6
+How much Coal can the Coal Trucks above Seers hold?|120
+How much Coal do you need to make a Adamantite Bar?|6
+How much Coal do you need to make a Bronze Bar?|0
+How much Coal do you need to make a Iron Bar?|0
+How much Coal do you need to make a Mithril Bar?|4
+How much Coal do you need to make a Rune Bar?|8
+How much Coal do you need to make a Steel Bar?|2
+How much Coal Ore do you need for Doric's quest?|0
+How much Cooking experience do you receive for baking a Chocolate Cake from scratch?|210
+How much do the Dwarf Multicannon pieces cost separately?|200k
+How much does it cost to have a Battlestaff enchanted?|40k
+How much does one slice of Pineapple Pizza heal?|11
 How much does Shield Right Half cost in the Legends Guild?|750k
 How much does the Unholy book give to all attack stats?|8
-How much exp do Raurg bones give you when buried normally?|96
 How much experience do you need to get a skill to level 2?|83
 How much experience is given when you identify Dwarf Weed?|13.75
-How much experience points does 1 agility ticket give you?|240
+How much experience points does 1 Agility ticket give you?|240
+How much gp are equal to one K?|1000
+How much gp do you have to pay to get to Karmaja?|30
+How much gp does a Yew Longbow high alch for?|768
+How much gp must you get for your money to be labeled "K" instead of "GP" in your inventory?|100000
 How much GP will you get if you cast High Level Alchemy on a Dragon Chainbody?|150k
 How much health do Spicy Crunchies heal?|7
 How much health does a Cake heal in total?|12
@@ -141,43 +127,40 @@ How much health does a Worm Batta heal?|12
 How much health does a Worm Hole heal?|12
 How much health does an Anchovy Pizza heal in total?|18
 How much health does an Apple Pie heal in total?|14
+How much Iron Ore do you need for Doric's Quest?|2
 How much money does the Make-over Mage charge for a makeover?|3k
 How much range does a Ranging Potion add at level 95?|13
+How much Rune Essence would be required to from level 1 to 99 Runecrafting off Air Runes?|2,606,887
 How old is the Gypsy in Varrock?|336
-I have 16 kebabs, I eat one myself and share the rest equally between 3 friends how many do they have each?|5
+I have 16 Kebabs, I eat one myself and share the rest equally between 3 friends how many do they have each?|5
 If I went east from Port Sarim, where would I be?|Draynor village
 If you had 3/99 HP, how many full Meat Pizzas would you have to eat to get to full HP?|7
 If you have 1 million xp in any skill, you are level __ in that skill?|73
 If you have this level in Attack, Strength, and Defence, you will be 100 combat. What level is it?|80
 If you see a silver crown next to a player name, this signals they are a..|player moderator
-If you were to lose your amulet of Catspeak, who would you have to talk to in order to receive it again?|The Sphinx in Sophanem
-In "Tutorial Island" what type of shield do you receive?|Wooden shield
-In the cook's assistant quest who is the cook making a cake for?|Duke of Lumbridge
+In the Cook's Assistant quest who is the cook making a cake for?|Duke of Lumbridge
 In the Dragon Slayer quest, who gives you a riddle on top of ice mountain?|Oracle
-In the Dragon Slayer quest, who gives you the anti-dragon breath shield?|Duke of Lumbridge
+In the Dragon Slayer quest, who gives you the Dragonfire Sheild?|Duke of Lumbridge
 In the Family Crest quest, where does the Chef live?|Catherby
 In the Goblin Diplomacy quest, you talk to General Bentnose and General ________|Wartface
 In the Imp Catcher quest, who are you collecting beads for?|Wizard Mizgog
-In the knight's sword quest, who does the sword belong to?|Sir Vyvin
+In the Knight's Sword quest, who does the sword belong to?|Sir Vyvin
 In the Shilo Village quest, you need to get _____ of the Dead|Beads
 In Tribal Totem, if you forget to check the stairs for traps and go up them, where will you end up?|Sewers
 In what city would you find a RPDT employee?|Ardougne
 In what quest do you obtain Glarial's Amulet?|Waterfall Quest
-In what quest must you use a vial of honey, a distillator and rotten meat?|biohazard
-In which skill would you add an irit leaf to a waterfilled vial?|Herblore
-It is possible to attack a level 24 man without them turning to a werewolf?|yes
+In what quest must you use a vial of honey, a distillator, and rotten meat?|biohazard
+In which skill would you add an Irit Leaf to a Vial of Water?|Herblore
 Lumbridge Teleport requires _ air, _ earth, and _ law rune|3 1 1
 Magic is strong against what?|Melee
 Magic is weak against what?|Range Armour
 Melee armour is strong against what?|Range
 Minigame name: ______ of Mort'ton?|Shades
 Minigame name: Brimhaven Agility _____?|Arena
-Minigame name: Castle ____?|Wars
 Minigame name: Duel _____?|Arena
 Minigame name: Fishing _______?|Trawler
-Minigame name: Gnome ____?|Ball
+Minigame name: Gnome____?|ball
 Minigame name: Mage _____?|Arena
-Minigame name: Tai Bwo Wannai _______?|Cleanup
 Minigame name: Treasure ______?|trails
 Monster name: Bab_ blu_ dra___?|Baby blue dragon
 Monster name: Ban___?|Bandit
@@ -207,27 +190,19 @@ Monster name: Elv___?|Elvarg
 Monster name: Exp_______?|Experiment
 Monster name: Far___?|Farmer
 Monster name: Fi__ Gi___?|Fire giant
-Monster name: For_____ Gua__?|Fortress Guard
 Monster name: Gen____ Kha____?|General Khazard
 Monster name: Gha__?|Ghast
 Monster name: Gho__?|Ghost
 Monster name: Gho__?|Ghoul
-Monster name: Gia__ Cr__?|Giant Crab
-Monster name: Gia__ Lob____?|Giant Lobster
 Monster name: Gia__ Ro__ Cr__?|Giant Rock Crab
-Monster name: Gia__ Ske_____?|Giant skeleton
-Monster name: Gia__ Sna__|Giant snail
 Monster name: Gia__ Spi___?|Giant spider
-Monster name: Gno__ Arc___?|Gnome Archer
 Monster name: Gno__ Gua__?|Gnome guard
 Monster name: Gob___?|Goblin
-Monster name: Gr__ Wo__?|Grey wolf
 Monster name: Gr___ Dr____?|Green Dragon
 Monster name: Gra__ Sco_____?|Grave Scorpion
 Monster name: Gre____ De___?|Greater Demon
-Monster name: Gri____ Be__?|Grizzly Bear
-Monster name: Gua__ ___?|Guard dog
 Monster name: Gua__ Ban___?|Guard Bandit
+Monster name: Gua__ D__?|Guard dog
 Monster name: Gua__?|Guard
 Monster name: Hel______?|Hellhound
 Monster name: Hi__ Gia__?|Hill Giant
@@ -236,175 +211,119 @@ Monster name: Hob______?|Hobgoblin
 Monster name: I__ Gia__?|Ice giant
 Monster name: I__ Que__?|Ice queen
 Monster name: I__ Spi___?|Ice spider
-Monster name: I__ Tro__?|Ice Troll
 Monster name: I__ War____?|Ice Warrior
 Monster name: I__ Wo__?|Ice wolf
 Monster name: I__?|Imp
 Monster name: Ib__ Dis_____?|Iban disciple
-Monster name: Ice_____?|Icefiend
-Monster name: Ir__ Dra___?|Iron dragon
-Monster name: Ja__ Gua__?|Jail guard 
-Monster name: Jac___?|Jackal 
-Monster name: Jai___?|Jailer 
-Monster name: Jor__?|Jogre 
-Monster name: Jun___ Dem__?|Jungle Demon 
-Monster name: Jun___ Hor___?|Jungle horror 
-Monster name: Jun___ Sav___?|Jungle savage 
-Monster name: Jun___ Spi___?|Jungle spider 
-Monster name: Jun___ Wo__?|Jungle Wolf 
-Monster name: Juv_____?|Juvinate
-Monster name: Kal_____ Gua_____?|Kalphite Guardian 
-Monster name: Kal_____ Qu___?|Kalphite Queen 
-Monster name: Kal_____ Sol____?|Kalphite Soldier 
-Monster name: Kal_____ Wor___?|Kalphite Worker 
-Monster name: Kha____ Com______?|Khazard commander 
-Monster name: Kha____ Gua__?|Khazard Guard 
-Monster name: Kha____ Og__?|Khazard Ogre 
-Monster name: Kha____ Sco_____?|Khazard Scorpion 
-Monster name: Kha____ Tro____?|Khazard trooper 
-Monster name: Kha____ War____?|Khazard warlord 
-Monster name: Ki__ Bl___ Dr___?|King Black Dragon 
-Monster name: Ki__ Sco_____?|King scorpion 
-Monster name: Kni___ o_ Ard_____?|Knight of Ardougne 
-Monster name: Lar__ Mos_____?|Large mosquito 
-Monster name: Le___?|Leech 
-Monster name: Les___ De___?|Lesser Demon 
-Monster name: Liz___?|Lizard 
-Monster name: M_ Hy__?|Mr Hyde
-Monster name: M__?|Man 
-Monster name: Ma___ A__?|Magic Axe 
+Monster name: Ja__ Gua__?|Jail guard
+Monster name: Jai___?|Jailer
+Monster name: Jog__?|Jogre
+Monster name: Jun___ Dem__?|Jungle Demon
+Monster name: Jun___ Sav___?|Jungle savage
+Monster name: Jun___ Spi___?|Jungle spider
+Monster name: Jun___ Wo__?|Jungle Wolf
+Monster name: Kal_____ Gua_____?|Kalphite Guardian
+Monster name: Kal_____ Qu___?|Kalphite Queen
+Monster name: Kal_____ Sol____?|Kalphite Soldier
+Monster name: Kal_____ Wor___?|Kalphite Worker
+Monster name: Kha____ Com______?|Khazard commander
+Monster name: Kha____ Gua__?|Khazard Guard
+Monster name: Kha____ Og__?|Khazard Ogre
+Monster name: Kha____ Sco_____?|Khazard Scorpion
+Monster name: Kha____ Tro____?|Khazard trooper
+Monster name: Kha____ War____?|Khazard warlord
+Monster name: Ki__ Bl___ Dr___?|King Black Dragon
+Monster name: Ki__ Sco_____?|King scorpion
+Monster name: Kni___ o_ Ard_____?|Knight of Ardougne
+Monster name: Le___?|Leech
+Monster name: Les___ De___?|Lesser Demon
+Monster name: M__?|Man
+Monster name: Ma___ A__?|Magic Axe
 Monster name: Mar___ Gu___?|Market Guard
-Monster name: Mer______?|Mercenary 
+Monster name: Mer______?|Mercenary
 Monster name: Mo__ Gia__?|Moss giant
 Monster name: Mo__ o_ Zam____?|Monk of Zamorak
-Monster name: Mo__?|Monk 
-Monster name: Mol_____?|Molanisk 
-Monster name: Mon___?|Monkey 
-Monster name: Mos_____ Swa__?|Mosquito swarm
-Monster name: Mou____ Ter_______ Gno__?|Mounted terrorbird gnome 
-Monster name: Mou_____ Go__?|Mountain goat 
-Monster name: Mou_____ Tro__?|Mountain Troll 
-Monster name: Mou____?|Mourner 
-Monster name: Mud_______?|Mudskipper
-Monster name: Mug___?|Mugger 
-Monster name: Mum__?|Mummy 
-Monster name: My__ Sna__?|Myre snail 
-Monster name: Na__ Bea__?|Nail beast
-Monster name: Nec________?|Necromancer 
-Monster name: O__?|Orc 
-Monster name: Og__ Gu___?|Ogre guard 
-Monster name: Og__ Mer_____?|Ogre merchant 
+Monster name: Mo__?|Monk
+Monster name: Mon___?|Monkey
+Monster name: Mou____ Ter_______ Gno__?|Mounted terrorbird gnome
+Monster name: Mou_____ Go__?|Mountain goat
+Monster name: Mou_____ Tro__?|Mountain Troll
+Monster name: Mou____?|Mourner
+Monster name: Mug___?|Mugger
+Monster name: My__ Blam___ Sna__?|Myre Blamish Snail
+Monster name: Necr_______?|Necromancer
+Monster name: Og__ Gu___?|Ogre guard
+Monster name: Og__ Mer_____?|Ogre merchant
 Monster name: Og__ Sha___?|Ogre Shaman
 Monster name: Og__?|Ogre
-Monster name: Oth_________ Be___?|Otherworldly being 
-Monster name: Out___?|Outlaw 
-Monster name: P__ Sco_____?|Pit Scorpion 
-Monster name: Pal____?|Paladin 
-Monster name: Phe_____?|Pheasant 
-Monster name: Pir___ Gu___?|Pirate guard 
+Monster name: Oth_________ Be___?|Otherworldly being
+Monster name: P__ Scor____?|Pit Scorpion
+Monster name: Pal____?|Paladin
+Monster name: Phe_____?|Pheasant
+Monster name: Pir___ Gu___?|Pirate guard
 Monster name: Pir___?|Pirate
-Monster name: Pla___ C__?|Plague cow 
-Monster name: Poi___ Sco_____?|Poison Scorpion 
-Monster name: Poi___ Spi___?|Poison Spider 
-Monster name: R__ Dr____?|Red dragon 
-Monster name: R__?|Ram 
-Monster name: R__?|Rat 
-Monster name: Rab___?|Rabbit 
-Monster name: Ren_____ Kni___?|Renegade Knight 
+Monster name: Pla___ C__?|Plague cow
+Monster name: Poi___ Sco_____?|Poison Scorpion
+Monster name: Poi___ Spi___?|Poison Spider
+Monster name: R__ Dr____?|Red dragon
+Monster name: R__?|Rat
+Monster name: Rab___?|Rabbit
+Monster name: Rene____ Kni___?|Renegade Knight
 Monster name: Riv__ Tro__?|River Troll
-Monster name: Ro__ Cr__?|Rock Crab 
+Monster name: Ro__ Cr__?|Rock Crab
 Monster name: Ro__ Go___?|Rock Golem
-Monster name: Ro__ Lob____?|Rock lobster 
-Monster name: Rog__?|Rogue 
-Monster name: Roo____?|Rooster 
-Monster name: Ru__ Har____?|Ruby harvest 
-Monster name: S__ Tr___?|Sea troll
-Monster name: Sab__-_______ Keb___?|Sabre-toothed kebbit 
-Monster name: Sab__-_______ Kya__?|Sabre-toothed kyatt 
-Monster name: Sar______ Wiz___?|Saradomin Wizard 
+Monster name: Rog__?|Rogue
+Monster name: Roo____?|Rooster
+Monster name: Sar______ Wiz___?|Saradomin Wizard
 Monster name: Sco_____?|Scorpion
-Monster name: Sea____?|Seagull 
 Monster name: Sh___?|Shade
-Monster name: Sh___?|Shark 
-Monster name: Sha___ Spi___?|Shadow Spider 
-Monster name: Sha___ War____?|Shadow Warrior 
-Monster name: Sha____ Gu___?|Shantay Guard 
-Monster name: Ske_____ Ha__?|Skeletal Hand 
-Monster name: Ske_____ Hel______?|Skeletal hellhound 
+Monster name: Sha___ Spi___?|Shadow Spider
+Monster name: Sha___ War____?|Shadow Warrior
+Monster name: Sha____ Gu___?|Shantay Guard
 Monster name: Ske_____ Ma__?|Skeleton Mage
-Monster name: Ske_____ Min__?|Skeletal Miner 
-Monster name: Ske_____ Th__?|Skeleton thug 
+Monster name: Ske_____ Min__?|Skeletal Miner
 Monster name: Ske_____?|Skeleton
 Monster name: Sn___?|Snake
-Monster name: Sna_____?|Snailfeet 
 Monster name: Sol____?|Soldier
 Monster name: Sou_____?|Soulless
-Monster name: Spi___ Lar____?|Spined Larupia 
 Monster name: Spi___?|Spider
-Monster name: Spo____ Keb___?|Spotted kebbit 
-Monster name: Spr___ Ele______?|Spring Elemental 
-Monster name: St___ Dr____?|Steel dragon 
-Monster name: St__?|Stag 
-Monster name: Str_____?|Stranger 
-Monster name: Su__ o_ Arm___?|Suit of armour 
-Monster name: Sum___ Ele______?|Summer Elemental 
-Monster name: Sum_____ Zom___?|Summoned Zombie 
-Monster name: Swa__ Liz___?|Swamp lizard 
-Monster name: Swa__ Sna__?|Swamp snake
-Monster name: Tem___ Gua_____?|Temple guardian 
-Monster name: Ter___ D__?|Terror dog
-Monster name: Ter_______?|Terrorbird
-Monster name: Th___?|Thief
-Monster name: Th__?|Thug 
-Monster name: To___ Ar____?|Tower Archer 
-Monster name: To___ Gu___?|Tower Guard 
-Monster name: Tok__-K__-D___?|TokTz-Ket-Dill 
-Monster name: Tor_____ So__?|Tortured Soul 
-Monster name: Tor_____?|Tortoise
+Monster name: St___ Dr____?|Steel dragon
+Monster name: Su__ o_ Arm___?|Suit of armour
+Monster name: Sum_____ Zom___?|Summoned Zombie
+Monster name: Tem___ Gua_____?|Temple guardian
+Monster name: Terr______?|Terrorbird
+Monster name: Th__?|Thug
+Monster name: Thi__?|Thief
+Monster name: To___ Ar____?|Tower Archer
+Monster name: To___ Gu___?|Tower Guard
 Monster name: Tr__ Spi___?|Tree spirit
-Monster name: Tr___ Gen____?|Troll General 
-Monster name: Tr___ Spe______?|Troll Spectator 
-Monster name: Tr___?|Tramp 
-Monster name: Tri______?|Tribesman 
-Monster name: Tro_____ Wag____?|Tropical wagtail 
-Monster name: Ty___ Gu___?|Tyras Guard 
-Monster name: Un____ C__?|Undead Cow 
-Monster name: Un____ Lum_______?|Undead Lumberjack
-Monster name: Un____ Tr___?|Undead Troll
+Monster name: Tr___ Gen____?|Troll General
+Monster name: Tr___ Spe______?|Troll Spectator
+Monster name: Tra__?|Tramp
+Monster name: Trib_____?|Tribesman
+Monster name: Ty___ Gu___?|Tyras Guard
+Monster name: Un____ C__?|Undead Cow
 Monster name: Uni____?|Unicorn
-Monster name: Vam____ Juv______?|Vampyre Juvenile
 Monster name: Vam____?|Vampire
-Monster name: Vul____?|Vulture 
 Monster name: War____ Wo___?|Warrior woman
 Monster name: War____?|Warrior
-Monster name: Wat__ Ele______?|Water Elemental 
-Monster name: Wat__ Wiz___?|Water Wizard 
-Monster name: Wat_______?|Waterfiend
+Monster name: Wat__ Ele______?|Water Elemental
 Monster name: Wat_____?|Watchman
 Monster name: Whi__ Kn____?|White Knight
 Monster name: Whi__ Wo__?|White wolf
-Monster name: Wi__ D__?|Wild dog
-Monster name: Win___ Ele______?|Winter Elemental 
-Monster name: Wiz___?|Wizard 
+Monster name: Win___ Ele______?|Winter Elemental
+Monster name: Wiz___?|Wizard
 Monster name: Wo___?|Woman
 Monster name: Wo__?|Wolf
-Monster name: Wol______?|Wolfwoman 
-Monster name: Wol____?|Wolfman 
-Monster name: Y__?|Yak 
-Monster name: Zam____ Cra____?|Zamorak crafter 
-Monster name: Zam____ Ran___?|Zamorak ranger 
-Monster name: Zam____ War____?|Zamorak warrior
-Monster name: Zam____ Wiz___?|Zamorak Wizard
-Monster name: Zog__?|Zogre 
-Monster name: Zom___ Ha__?|Zombie hand 
-Monster name: Zom___ Og__?|Zombie Ogre
-Monster name: Zom___ R__?|Zombie rat 
-Monster name: Zom___ Sw__?|Zombie swab 
+Monster name: Wol____?|Wolfman
+Monster name: Wolf_____?|Wolfwoman
+Monster name: Zom___ R__?|Zombie rat
 Monster name: Zom___?|Zombie
 Name this God spell - S________ S_____|Saradomin Strike
 Name this God spell C____ O_ G_____|Claws of Guthix
 Near what city is the Legends Guild located?|Ardougne
 Number of emotes that need to be unlocked before you can use them?|14
+On "Tutorial Island" what type of shield do you receive?|Wooden shield
 On 6/6/06, who was one of the few characters to be able to attack people out of the Wilderness?|durial321
 On what holiday were holiday drops made non-tradable?|Easter
 Praying at the prayer guild gives what advantage over you normal prayer level?|+2
@@ -491,6 +410,7 @@ True or false: "Seaweed" is edible?|false
 True or false: Burnt bones give more exp then normal bones when buried.|false
 True or false: Chainbody is stronger than platebody.|false
 True or false: Dragon can be smithed.|false
+True or false: It is possible to attack a level 24 Man without them turning to a Werewolf.|true
 True or false: Vampire Slayer is a members only quest.|false
 True or false: When you use one glory amulet on the Heroes guild fountain, all other glories in your inventory are charged also?|false
 True or false: White Knights are Weaker than Black Knights.|false
