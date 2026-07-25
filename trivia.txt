@@ -20,8 +20,8 @@ As well as teleporting you to various places, the Amulet of Glory also increases
 At what Agility level can you play Gnomeball?|1
 At what Defence level can you wear a Rune Platebody?|40
 At what Fishing level are you able to fish for Sharks?|76
+At what Fishing level can you catch a Manta Ray?|81
 At what Fishing level can you catch Anchovies?|15
-At what Fishing level can you fish a Manta Ray?|81
 At what Mining level can you mine Gold?|40
 At what Mining level can you mine Silver?|20
 At what Smithing level can you smith a Steel Scimitar?|35
@@ -40,6 +40,7 @@ Holy Symbol of ______?|Saradomin
 How many Adamantite Ores are in the Bandit Camp mine (or the Hobgoblin Mine)?|7
 How many animals in the Ardougne Zoo?|40
 How many banks are in Ardougne?|2
+How many cannons does Lumbridge Castle have?|9
 How many casts must you use before you can use a God Spell outside of the arena?|100
 How many characters are allowed in your RuneScape nickname?|12
 How many Characters can each server/world hold?|2000
@@ -101,7 +102,7 @@ How much gp are equal to one K?|1000
 How much gp do you have to pay to get to Karmaja?|30
 How much gp does a Yew Longbow high alch for?|768
 How much gp must you get for your money to be labeled "K" instead of "GP" in your inventory?|100000
-How much GP will you get if you cast High Level Alchemy on a Dragon Chainbody?|150k
+How much gp will you get if you cast High Level Alchemy on a Dragon Chainbody?|150k
 How much health do Spicy Crunchies heal?|7
 How much health does a Cake heal in total?|12
 How much health does a Chocolate Bomb heal?|15
@@ -319,15 +320,15 @@ Monster name: Wol____?|Wolfman
 Monster name: Wolf_____?|Wolfwoman
 Monster name: Zom___ R__?|Zombie rat
 Monster name: Zom___?|Zombie
-Name this God spell - S________ S_____|Saradomin Strike
-Name this God spell C____ O_ G_____|Claws of Guthix
+Name this God spell: C____ o_ G_____|Claws of Guthix
+Name this God spell: F_____ o_ Z______|Flames of Zamorak
+Name this God spell: S________ S_____|Saradomin Strike
 Near what city is the Legends Guild located?|Ardougne
 Number of emotes that need to be unlocked before you can use them?|14
 On "Tutorial Island" what type of shield do you receive?|Wooden shield
-On 6/6/06, who was one of the few characters to be able to attack people out of the Wilderness?|durial321
 On what holiday were holiday drops made non-tradable?|Easter
-Praying at the prayer guild gives what advantage over you normal prayer level?|+2
-Putting a teeth halve and loop halve together gives you a what?|Crystal key
+Praying at the Edgeville Monastery boosts your Prayer by how much?|2
+Putting a teeth half and loop half together gives you a what?|Crystal key
 Quest name: ____ _____ Village?|Tree Gnome
 Quest name: ____ City?|Lost
 Quest name: _____ & Juliet?|Romeo
@@ -391,25 +392,17 @@ Range armour is strong against what?|Magic
 Range is weak against what?|Melee Armour
 RuneScape History: In 2002, RuneScape members version was released. In what month was it released?|February
 RuneScape's release date?|January 4th, 2001
-Spell: b____ t_ b______|bones to bananas
-Spell: E_______|Entangle
-Telekinetic Grab requires _ air and _ law rune|1 1
-The Bind spell stops the person from moving for how many seconds?|5
+Spell: B____ t_ B______|bones to bananas
+Spell: En______|Entangle
+Telekinetic Grab requires _ air and law rune|1
 The character limit for RuneScape in-game chat is?|80
-The dark wizards near the Draynor willow trees are what level?|7
-The dogs in the Brimhaven dungeon are what level?|63
-The first re-charge of a crystal bow costs how much?|900k
-The Skull Sceptre teleports you to _________ _______|barbarian village
-This familiar's special allows you to eat raw food, as long as you have the cooking level to cook it.|bunyip
-This item will turn you into a small, colored egg.|Easter ring
-This random event has a hook for a hand.|Cap'n Hand
-This type of charm gives the most Xp per monster|Blue
-To fish lobsters, you need a?|lobster pot
-To make 100 mithril bars, how much coal would you need?|400
+The Dark Wizards near the Draynor willow trees are what level?|7
+To catch Lobsters, you need a ...?|lobster pot
+To smelt 100 Mithril Bars, how much Coal would you need?|400
 True or false: "Seaweed" is edible?|false
 True or false: Burnt bones give more exp then normal bones when buried.|false
-True or false: Chainbody is stronger than platebody.|false
-True or false: Dragon can be smithed.|false
+True or false: Chainbodies are better against slash attacks than platebodies.|false
+True or false: Dragon weapons and armour can be smithed.|false
 True or false: It is possible to attack a level 24 Man without them turning to a Werewolf.|true
 True or false: Vampire Slayer is a members only quest.|false
 True or false: When you use one glory amulet on the Heroes guild fountain, all other glories in your inventory are charged also?|false
