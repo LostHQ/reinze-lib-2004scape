@@ -408,7 +408,6 @@ True or false: Vampire Slayer is a members only quest.|false
 True or false: When you use one glory amulet on the Heroes guild fountain, all other glories in your inventory are charged also?|false
 True or false: White Knights are Weaker than Black Knights.|false
 True or false: You can find moss giants in the Varrock sewers.|true
-True or false: You can get a Frog Mask.|true
 Unscramble 'amantiteda oer'.|adamantite ore
 Unscramble 'bailtrims'.|brimstail
 Unscramble 'bakeb resell'.|kebab seller
@@ -418,87 +417,71 @@ Unscramble 'dam stitcisen'.|Mad Scientist
 Unscramble 'dosamarian'.|Saradomin
 Unscramble 'etiphalk enueq'.|kalphite queen
 Unscramble 'gink balck godran'.|king black dragon
+Unscramble 'hcginelft'.|fletching
 Unscramble 'hornozocon'.|Chronozon
 Unscramble 'ilchainam'.|chainmail
-Unscramble 'indobasi'.|obsidian
 Unscramble 'iswe dol nam'.|Wise Old Man
 Unscramble 'lyda fo eth akel'.|Lady of the Lake
-Unscramble 'mmyij teh lecihs'.|Jimmy the Chisel
 Unscramble 'ralnereg waftarec'.|General Wartface
 Unscramble 'redi fowl'.|dire wolf
 Unscramble 'siettachei'.|Achietties
 Unscramble 'vagerl'.|Elvarg
-Unscramble: hcginelft|fletching
-Unscramble: labelndano edes|belladonna seed
 Varrock Teleport requires _ air, _ fire, and _ law rune|3 1 1
 What Agility is required to do Regicide?|56
 What Agility level do you need to cross the ledge in the Agility dungeon?|45
-What amulet gives the highest magic bonus?|3rd Age amulet
-What are feathers used for in the free worlds?|fly fishing
+What are feathers used for in free to play worlds?|fly fishing
 What are the 4 elemental runes in alphabetical order|air earth fire water
-What are the Mage Robes called where you need to get Bark, Fine Cloth and Money for the Wizard to make?|splitbark
+What are the mage robes called where you need to get Bark, Fine Cloth, and Gold Coins for the Wizard to make?|splitbark
 What are the majority of rocks in the mining guild?|Coal
-What are the majority of the rocks in the miners guild?|coal
 What are the names of the guards in Al Kharid?|warriors
-What are the strongest type of giants?(members)|fire
+What are the strongest type of giants?|fire giant
 What beer will raise your Mining and Smithing level by 1 each?|Dwarven stout
-What bonus does a Gilded altar with both burners lit give?|350%
 What came into the game first, fishing or mining?|mining
 What can be used in place of air runes?|air staff
-What can you mine at level 35 Mining?|sandstone
+What can you mine at level 20 Mining?|silver
 What can you steal from a scimitar stall?|scimitars
 What city do you start in when you arrive from Tutorial Island?|Lumbridge
 What city does the silk dealer reside in?|Al Kharid
 What city has a clothes shop in it?|Varrock
 What city is in the desert?|Al Kharid
-What city is the dwarven mines under?|Falador
-What colour is rune armour?|teal
+What city is the Dwarven Mines under?|Falador
+What colour is rune armour?|cyan
 What colour is the dragon in Dragon Slayer?|green
-What colour is the Gem in Glarial's Amulet?|green
+What colour is the gem in Glarial's Amulet?|green
 What colour is the liquid of a Super Attack Potion?|blue
-What colour Party Hat does the Wise Old Man telegrab when he kills a player in the bank recording?|blue
 What combat level is a Hero?|69
 What Cooking level is required to bake Bread?|1
 What cooking level is required to cook Sharks?|80
-What crafting level do you need to make diamond amulet|70
-What crafting level do you need to make dragonstone amulet?|80
-What crafting level do you need to make glass vials?|33
-What Crafting level do you need to make Red Dragonhide Body?|77
-What crafting level is needed to make a Diamond Amulet?|70
-What crafting level is needed to make a Dragonstone Amulet?|80
-What crafting level is needed to make a Ruby Amulet?|50
-What crafting level is needed to make a Sapphire Amulet?|24
-What Crafting level is required to make a Dragonstone Amulet?|80
-What Crafting level is required to make a Sapphire Amulet?|24
-What Defence level is needed to wear mithril armour?|20
+What Crafting level do you need to make a Red Dragonhide Body?|77
+What crafting level do you need to make Glass Vials?|33
+What crafting level is required to make a Diamond Amulet?|70
+What crafting level is required to make a Dragonstone Amulet?|80
+What crafting level is required to make a Ruby Amulet?|50
+What crafting level is required to make a Sapphire Amulet?|24
+What Defence level is needed to wear Mithril armour?|20
 What did Edgeville used to be called?|ghost town
-What did the bank used to be called?|The Bank of Varrock
-What do ghosts drop?|nothing
+What did the first and only bank used to be called?|The Bank of Varrock
+What do Ghosts drop?|nothing
 What do quest do you need to complete to be able to use Herblore?|druidic ritual
-What do scorpions drop?|charms
 What do the crossed swords in the lower right corner of the screen mean?|Multicombat
+What do you add to an unfinished Marrentill Potion to make Antipoison?|ground unicorn horn
+What do you add to an unfinished Tarromin Potion to make Strength Potion?|limpwurt root
 What do you add to cake to make chocolate cake?|chocolate bar
-What do you add to irit leaf to make antidote?|ground unicorn horn
-What do you add to tarromin to make strength potion?|limpwurt
-What do you bury to advance prayer levels?|bones
+What do you bury to advance Prayer levels?|bones
 What do you get from cutting down trees?|logs
-What do you need to catch bass?|big net
-What do you need to catch lava eel (Hero's Guild Quest)?|oily fishing rod
-What do you need to catch swordfish?|harpoon
-What do you need to get the firebird feather?|ice gloves
-What do you need to kill Count Draynor?|stake
-What do you need to make Leather?|Cow hide
-What do you use to kill the Vampire in the Vampire Slayer quest?|stake
-What do you use to turn wool into a ball of yarn?|Spinning wheel
-What does "H.A.M." stand for?|Humans Against Monsters
+What do you need to catch Bass?|big net
+What do you need to catch Lava Eel?|oily fishing rod
+What do you need to catch Swordfish?|harpoon
+What do you need to get the Firebird Feather?|ice gloves
+What do you use to kill the vampire in the Vampire Slayer quest?|stake
+What do you use to turn Wool into a Ball of Wool?|Spinning wheel
 What does a ghast leave in your inventory if it attacks you?|rotten food
 What does an examined beehive say?|Where bees live
 What does an examined Oak say?|A Beautiful Old Oak
 What does an examined Zamorak Full Helm say?|Rune Full Helm in the Colours of Zamorak.
-What does dm stand for?|death match
-What does it say when you examine 43536236 Coins?|43536236 x coins
+What does it say when you examine 43536236 Coins?|Lovely money!
 What does it say when you examine a Cow?|It's a dairy cow.
-What does it say when you examine a man?|one of RuneScapes many citizens
+What does it say when you examine a man?|one of RuneScape's many citizens
 What does it say when you examine a Ruined Pillar?|An old crumbled pillar
 What does Katrine want you to bring her? (Shield of Arrav)|2 Phoenix crossbows
 What does Redbeard Frank want in the Pirate Treasure quest?|Karamja rum
@@ -517,36 +500,34 @@ What free to play quest is required to start the skill Runecraft?|Rune Mysteries
 What gem does a Ring of Recoil require?|Sapphire
 What gem stone is Enchant Level 4 Jewelry associated with?|Diamond
 What herb can you identify at level 65 Herblore?|Cadantine
-What herb do you need to make defence potion?|ranarr
-What herb do you need to make fishing potion?|avantoe
-What herb do you need to make ranging potion?|dwarf weed
-What herb do you need to make super attack?|irit
-What herb do you need to make super strength potion?|kwuarm
+What herb do you need to make a Defence Potion?|ranarr
+What herb do you need to make a Fishing Potion?|avantoe
+What herb do you need to make a Ranging Potion?|dwarf weed
+What herb do you need to make a Super Attack Potion?|irit
+What herb do you need to make a Super Strength Potion?|kwuarm
 What Herblore level do you need to identify Avantoe?|48
 What Herblore level do you need to identify Dwarf weed?|70
-What Herblore level do you need to identify guam?|3
+What Herblore level do you need to identify Guam?|3
 What Herblore level do you need to identify Kwuarm?|55
-What Herblore level do you need to identify marrentill?|5
-What Herblore level do you need to identify ranarr?|25
+What Herblore level do you need to identify Marrentill?|5
+What Herblore level do you need to identify Ranarr?|25
 What Herblore level do you need to identify Tarromin?|11
-What Herblore level do you need to identify torstol?|75
-What Herblore level do you need to make fishing potion?|50
-What Herblore level do you need to make ranging potion?|72
-What Herblore level do you need to make restore prayer potion?|38
-What Herblore level do you need to make super strength potion?|55
-What Herblore level is required to make Anti Fire-breath Potions?|69
-What high level monsters are in the back of the Varrock sewers?|moss giants
-What is Damis the Shadow Warrior's max hit?|28
-What is needed to obtain a piece of the prince outfit?|Frog Token
-What is smelted with copper to make bronze?|tin
+What Herblore level do you need to identify Torstol?|75
+What Herblore level do you need to make a Fishing Potion?|50
+What Herblore level do you need to make a Ranging Potion?|72
+What Herblore level do you need to make a Restore Prayer Potion?|38
+What Herblore level do you need to make a Super Strength Potion?|55
+What Herblore level is required to make an Antifire Potion?|69
+What high level monsters are in the back of the Varrock sewers?|moss giant
+What is smelted with Copper Ore to make a Bronze Bar?|tin ore
 What is the 100% drop on a Lesser Demon?|Ashes
 What is the bank called?|The Bank of RuneScape
 What is the best melee armor a non-member can use?|rune
 What is the best tree a non-member can cut down?|yew
-What is the best type of axe?|dragon
-What is the best type of shield sold in the shield shop?|mithril square
-What is the best type of sword sold in the sword shop?|adamantite long
-What is the black knight's "secret weapon" in the Black Knights quest?|invincibility potion
+What is the best type of axe?|rune
+What is the best type of shield sold in the shield shop?|mithril sq shield
+What is the best type of sword sold in the sword shop?|adamantite longsword
+What is the Black Knight's "secret weapon" in the Black Knights Fortress quest?|invincibility potion
 What is the character limit for RuneScape in-game chat?|80
 What is the city north of the Barbarian Village?|Edgeville
 What is the common name for an inexperienced player?|noob
@@ -570,20 +551,20 @@ What is the highest damage you can deal with Fire Strike?|8
 What is the highest level any random can be?|159
 What is the highest level in the wilderness (Free World)?|48
 What is the highest number of quest points you can get as a free player?|39
-What is the last spell on the normal spells list?|Teleother Camelot
+What is the last spell on the normal spells list?|Charge
 What is the last Strike spell?|fire strike
 What is the magic bonus given by Wizard Boots? (Not including the +)|4
 What is the maximum number of players a free player can have on their friends list?|100
 What is the maximum total level?|1881
 What is the most expensive item in RuneScape?|Christmas cracker
 What is the name of Ernest’s Wife?|Veronica
-What is the name of level 10 prayer?|RockSkin
+What is the name of level 10 prayer?|Rock Skin
 What is the name of level 13 prayer?|Superhuman Strength
 What is the name of level 22 prayer?|Rapid Heal
 What is the name of level 28 prayer?|SteelSkin
 What is the name of level 40 prayer?|Protect from Missiles
 What is the name of level 43 prayer?|Protect from Melee
-What is the name of level 7 prayer?|clarity of thought
+What is the name of level 7 prayer?|Clarity of Thought
 What is the name of the archery store in Varrock?|Lowe's Archery Emporium
 What is the name of the chain mail shop?|Wayne’s Chains
 What is the name of the chainmail store?|Wayne's Chains
@@ -860,6 +841,7 @@ Which are the only Monsters that drop Dragon platelegs and Dragon plateskirt?|me
 Which armour is all red?|dragon
 Which cities bar sell mind bomb's?|Falador
 Which city has the sheep catcher quest in it?|Ardougne
+Which hide do you need to make Leather?|Cow hide
 Which is the most expensive liquid in RuneScape?|half wine
 Which item used to be smithable but no longer is?|Pickaxe
 Which monster drops beads?|Imp
