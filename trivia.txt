@@ -472,7 +472,6 @@ What do you get from cutting down trees?|logs
 What do you need to catch Bass?|big net
 What do you need to catch Lava Eel?|oily fishing rod
 What do you need to catch Swordfish?|harpoon
-What do you need to get the Firebird Feather?|ice gloves
 What do you use to kill the vampire in the Vampire Slayer quest?|stake
 What do you use to turn Wool into a Ball of Wool?|Spinning wheel
 What does a ghast leave in your inventory if it attacks you?|rotten food
@@ -566,7 +565,6 @@ What is the name of level 40 prayer?|Protect from Missiles
 What is the name of level 43 prayer?|Protect from Melee
 What is the name of level 7 prayer?|Clarity of Thought
 What is the name of the archery store in Varrock?|Lowe's Archery Emporium
-What is the name of the chain mail shop?|Wayne’s Chains
 What is the name of the chainmail store?|Wayne's Chains
 What is the name of the chicken you help in a quest?|Ernest
 What is the name of the curved sword?|scimitar
@@ -574,151 +572,135 @@ What is the name of the demon in Demon Slayer?|Delrith
 What is the name of the first island made?|Tutorial Island
 What is the name of the guard who is helping guard Prince Ali?|Joe
 What is the name of the leader of Al Kharid?|Hassan
+What is the name of the NPC that gives you a strange box?|mysterious old man
 What is the name of the ore involved in "The Knight's Sword" quest?|blurite
 What is the name of the person who sells axes in Lumbridge?|bob
 What is the name of the person who sells axes in Port Sarim?|Brian
 What is the name of the plant used to make bowstrings?|flax
-What is the name of the pub by the edge of the wilderness?|jolly boar inn
+What is the name of the pub by the edge of the wilderness in Varrock?|jolly boar inn
 What is the name of the pub in Varrock?|blue moon inn
 What is the name of the river that goes through the desert?|River Elid
+What is the name of the ship you take to Crandor Isle?|Lady Lumbridge
 What is the name of the third island made?|Crandor
+What is the name of the witch who lives in Draynor Village?|aggie
 What is the name of the witch who lives in Rimmington?|Hetty
-What is the name of the witch who lives in the Draynor area?|aggie
 What is the only skill in which you cannot do or make anything at level 1?|Herblore
-What is the plant called that you can Spin into a Bowstring?|flax
-What is the random called where you get a strange box?|mysterious old man
 What is the second monster you face when starting a new account?|chicken
-What is the strongest type of giant in the free worlds?|Ice
+What is the strongest type of giant in the Free to Play worlds?|Ice
 What is the total maximum hit of a Magic Shortbow special?|46
-What is the type of metal weapons needed in "In Search of the Myreque"?|steel
-What is the weakest armor?|bronze
+What is the weakest melee armor?|bronze
 What is used to make blue dye?|woad leaves
-What is used to make green dye?|blue and yellow
-What is used to make orange dye?|red and yellow
-What is used to make purple dye?|red and blue
 What is used to make red dye?|redberries
 What is used to make yellow dye?|onions
 What is your hitpoints level throughout tutorial island?|10
 What item allows you to attack using melee from a distance of two squares?|Halberd
-What item do you need to pick up a Fire Feather?|Ice Gloves
+What item allows you to teleport to Al Kharid, Draynor, Edgeville, and Karamja?|Amulet of Glory
+What item do you need in order to pick up a Fire Feather?|Ice Gloves
 What item increases growth percentage of herbs?|compost
-What item teleports you to Al kharid, Draynor, Edgeville,and Karamja?|Amulet of Glory
 What items must you collect for Imp Catcher?|beads
-What level agility do you need to gain access to the barbarian outpost course?|35
+What level Agility do you need to gain access to the Barbarian Outpost course?|35
 What level Agility is needed for Dwarven Mine shortcut?|42
 What level Agility is needed for Falador shortcut?|6
 What level Agility is needed for Port Phasmatys to Ectopool shortcut?|58
-What level Agility is needed to do the Rogue's Den?|50
-What level agility is needed to enter the werewolf course?|60
-What level agility is needed to enter the wilderness course?|52
-What level agility is required to complete the Werewolf Skullball Course?|25
+What level Agility is needed to enter the Werewolf course?|60
+What level Agility is needed to enter the Wilderness course?|52
+What level Agility is required to complete the Werewolf Skullball Course?|25
 What level are Chickens?|1
 What level are Ghouls?|42
-What level are the wizards in the Wizards Tower?|9
-What level are white knights?|36
-What level crafting do you need to get into the crafting guild?|40
-What level do you need to smith addy plate?|88
-What level do you need to smith mithril plate?|68
-What level do you need to smith rune plate?|99
-What level do you need to smith steel plate?|48
-What level fishing do you need to get into the fishing guild?|68
-What level fletching do you need to make mithril arrows?|45
-What level fletching do you need to make rune arrows?|75
+What level are Goblins near Lumbridge?|2
+What level are the Wizards in the Wizards Tower?|9
+What level are White Knights?|36
+What level Cooking is needed to cook Lava Eel?|53
+What level Cooking is needed to cook Lobster?|40
+What level Crafting do you need to get into the Crafting Guild?|40
+What level Crafting is needed to craft Blue Dragonhide Chaps?|68
+What level Fishing do you need to get into the Fishing Guild?|68
+What level Fishing is needed to catch Bass?|46
+What level Fishing is needed to catch Lava Eel?|53
+What level Fishing is needed to catch Lobster?|40
+What level Fishing is needed to catch Salmon?|30
+What level Fishing is needed to catch Shark?|76
+What level Fletching do you need to make Mithril Arrows?|45
+What level Fletching do you need to make Rune Arrows?|75
 What level Fletching is required to make Steel Darts?|37
 What level is a Baby Blue Dragon?|48
-What level is a Baby Red Dragon?|65
 What level is a Black Demon?|172
 What level is a Black Knight?|33
 What level is a Black Unicorn?|27
 What level is a Blue Dragon?|111
-What level is a Bronze Dragon?|131
 What level is a Chaos Dwarf?|48
 What level is a Chicken?|1
-What level is a cow?|2
+What level is a Cow?|2
 What level is a Dagganoth?|90
 What level is a Dark Warrior?|8
-What level is a Dire wolf?|88
 What level is a Dire Wolf?|88
-What level is a farmer?|7
+What level is a Farmer?|7
 What level is a Giant Rat?|3
 What level is a Greater Demon?|92
 What level is a Green Dragon?|79
 What level is a Hero?|69
-What level is a highwayman?|5
+What level is a Highwayman?|5
 What level is a Hill Giant?|28
-What level is a Iron Dragon?|189
 What level is a Jungle Spider?|44
 What level is a Knight of Ardougne?|46
 What level is a Lesser Demon|82
-What level is a Lumbridge Goblin?|2
-What level is a man?|2
 What level is a Man?|2
-What level is a mugger?|10
+What level is a Mugger?|10
 What level is a Rock Crab?|13
 What level is a Soulless?|18
-What level is a Steel Dragon?|246
-What level is a unicorn?|21
+What level is a Unicorn?|21
 What level is an Ice Giant?|53
-What level is an Iron dragon?|189
-What level is an Iron Dragon?|189
 What level is Dad?|101
-What level is Dagganoth Rex?|303
 What level is Elvarg?|83
-What level is it to craft Blue Dragonhide Chaps?|68
-What level is needed to catch bass?|46
-What level is needed to catch lava eel(Hero's Guild Quest)?|53
-What level is needed to catch lobster?|40
-What level is needed to catch salmon?|30
-What level is needed to catch shark?|76
-What level is needed to cook lava eel (Hero's Guild Quest)?|53
-What level is needed to cook lobster?|40
-What level is needed to steal silk?|20
-What level is required to cast high level alchemy?|55
-What level is the witch in Al Kharid?|25
-What level magic do you need for Ardougne Teleport?|51
-What level magic do you need for Camelot Teleport?|45
-What level magic do you need for Falador Teleport?|37
-What level magic do you need for Varrock Teleport?|25
-What level magic is needed to cast Charge spell?|80
-What level magic is needed to cast Teleblock?|85
+What level is the Witch in Al Kharid?|25
+What level Magic do you need for Ardougne Teleport?|51
+What level Magic do you need for Camelot Teleport?|45
+What level Magic do you need for Falador Teleport?|37
+What level Magic do you need for Varrock Teleport?|25
+What level Magic is needed to cast Charge spell?|80
+What level Magic is required to cast High Level Alchemy?|55
 What level Mining do you need to mine Coal?|30
-What level mining is required to get in the Mining Guild?|60
-What level must you have to smith a rune dagger?|85
-What level prayer do you need to get into the prayer guild?|31
+What level Mining is required to get in the Mining Guild?|60
+What level Prayer do you need to get into the Prayer Guild?|31
 What level Runecrafting do you need to make Law runes?|54
 What level Runecrafting do you need to make Nature runes?|44
-What level smithing do you need to make a steel plate?|48
-What level thieving is required to pickpocket Warriors?|25
-What level thieving is required to steal from the blood chest?|59
-What level woodcutting do you need to cut magic trees?|75
-What level woodcutting do you need to cut maple trees?|45
-What level woodcutting do you need to cut willow trees?|30
-What level woodcutting do you need to cut yew trees?|60
-What magic level is required for High Level Alchemy?|55
+What level Smithing do you need to make a Steel Platebody?|48
+What level Smithing do you need to smith a Mithril Platebody?|68
+What level Smithing do you need to smith a Rune Platebody?|99
+What level Smithing do you need to smith a Steel Platebody?|48
+What level Smithing do you need to smith an Adamant Platebody?|88
+What level Smithing must you have to smith a Rune Dagger?|85
+What level Thieving is needed to steal from a Silk Stall?|20
+What level Thieving is required to pickpocket Warriors?|25
+What level Thieving is required to steal from the blood chest?|59
+What level Woodcutting do you need to cut Magic Trees?|75
+What level Woodcutting do you need to cut Maple Trees?|45
+What level Woodcutting do you need to cut Willow Trees?|30
+What level Woodcutting do you need to cut Yew Trees?|60
+What Magic level is required for High Level Alchemy?|55
 What Magic level is required to enter the Magic Guild?|66
 What Magic spell can you cast at 39 Magic?|crumble undead
-What magic spell can you cast at level 49 magic?|Enchant lvl-3 Jewelry
-What magic spell can you do at level 20?|Bind
-What magic spell can you do at level 37?|Falador teleport
-What magic spell can you do at level 45?|Camelot Teleport
-What magic spell can you do at level 56?|charge water orb
-What magic spell can you do at level 73?|Enfeeble
-What magic spell lets you teleport someone else?|Teleother
-What Material do you need to make an Enchanted Lyre?|golden wool
+What Magic spell can you cast at level 49 magic?|Enchant lvl-3 Jewelry
+What Magic spell can you do at level 20?|Bind
+What Magic spell can you do at level 37?|Falador teleport
+What Magic spell can you do at level 45?|Camelot Teleport
+What Magic spell can you do at level 56?|charge water orb
+What Magic spell can you do at level 73?|Enfeeble
+What material do you need to make an Enchanted Lyre?|golden wool
 What materials do you need for a Ranging Potion? (HERB and 2nd ITEM)|Dwarf Weed and Wine of Zamorak
 What members skill involves creating archery items?|fletching
 What members skill involves making potions?|Herblore
-What members skill involves taking items from market stalls?|thieving
+What members skill involves stealing items from market stalls?|thieving
 What metal is a holy symbol made from?|silver
 What mini-game is required to use the God Spells?|Mage Arena
 What Mining level do you need to get into the Mining Guild?|60
-What mining level is required to mine Runite?|85
+What Mining level is required to mine Runite?|85
 What Mining level would you need to mine Coal with a Dwarven Stout?|29
-What monster do you have to fight in the Witches House|shapeshifter
+What monster do you have to fight in the Witches House?|shapeshifter
 What monster drops beads?|Imps
-What monster drops rune larges?|greater demon
-What monster drops rune medium helms?|lesser demon
-What monster drops spinach rolls?|moss giants
+What monster drops Rune Full Helms?|greater demon
+What monster drops Rune Med Helms?|lesser demon
+What monster drops spinach rolls?|moss giant
 What monsters are found at the back of the Edgeville dungeon?|giants
 What monsters are in the caves of Lost City? (Besides Fairies)|otherworldly beings
 What must you do to a herb before you can use it in a potion?|identify it
@@ -732,13 +714,11 @@ What prayer level must you have to Bless Holy and Unholy Symbols?|50
 What programming language is RuneScape made in?|Java
 What quest do you have to do to wield a Dragon Longsword?|Lost City
 What quest do you need to do to wield a Dragon Halberd?|Regicide
-What quest is required to have the right to wear the green dragonhide body?|Dragon Slayer
-What quest rewards you with Oyster Pearls?|sea slug
-What range level do you need to get into the Range Guild?|40
-What Range level is required to wear Ranger Boots?|40
-What Ranging level must you have in order to use a dwarf cannon?|1
-What ring turns you into a rock?|Ring of Stone
-What rune do you need to cast a blast spell?|Death
+What quest is required to have the right to wear the Green Dragonhide Body?|Dragon Slayer
+What quest rewards you with Oyster Pearls?|sea slug quest
+What Ranged level do you need to get into the Range Guild?|40
+What Ranged level is required to wear Ranger Boots?|40
+What Ranged level must you have in order to use a Dwarf Multicannon?|1
 What rune is required for alchemy spells|nature
 What rune is required for amulet enchantment spells?|cosmic
 What rune is required for blast spells?|death
@@ -747,42 +727,42 @@ What rune is required for curse spells|body
 What rune is required for strike spells|mind
 What rune is required for teleport spells?|law
 What says this when you examine it "I doubt that was built to last..."?|heap of bricks
-What shield requires a 2 minute cool-down period after using it?|Dragonfire Shield
-What ship do you take to Crandor Isle|Lady Lumbridge
-What skill does emerald amulet increase?|defence
-What skill does holy symbol increase?|prayer
-What skill does monk's robes increase?|prayer
-What skill does ruby amulet increase?|strength
-What skill does sapphire amulet increase?|magic
 What skill is above fishing on your stats menu?|smithing
 What skill is used in making holy symbols?|crafting
-What smithing level is required to make a rune dagger?|85
-What special ore do you need to make the sword in the knight's sword quest?|blurite
-What special ore is requires to make the sword in the Knight’s Sword Quest?|Blurite
+What Smithing level is required to make a rune dagger?|85
+What special ore is required to make the sword in the Knight’s Sword Quest?|Blurite
 What spell allows you to convert items to gold?|alchemy
 What spell can you cast at 66 magic?|Vulnerability
-What Spell has the examine info of 'Smelts Ore without a Furnace'?|superheat item
+What spell has the examine info of 'Smelts Ore without a Furnace'?|superheat item
 What spell is used to keep your target from teleporting?|Teleblock
-What thieving level do you need to pickpocket guards?|40
-What thieving level do you need to pickpocket master farmers?|38
-What thieving level do you need to pickpocket rogues?|32
-What thieving level do you need to pickpocket warriors?|25
-What thieving level do you need to search for traps on blood rune chest?|59
-What thieving level do you need to search for traps on nature rune chest?|28
-What thieving level do you need to steal cake?|5
-What thieving level do you need to steal fur?|35
-What thieving level do you need to steal gems?|75
-What thieving level do you need to steal silver?|50
+What stat does emerald amulet increase?|defence
+What stat does holy symbol increase?|prayer
+What stat does monk's robes increase?|prayer
+What stat does ruby amulet increase?|strength
+What stat does sapphire amulet increase?|magic
+What Thieving level do you need to pickpocket guards?|40
+What Thieving level do you need to pickpocket master farmers?|38
+What Thieving level do you need to pickpocket rogues?|32
+What Thieving level do you need to pickpocket warriors?|25
+What Thieving level do you need to search for traps on blood rune chest?|59
+What Thieving level do you need to search for traps on nature rune chest?|28
+What Thieving level do you need to steal from a Cake Stall?|5
+What Thieving level do you need to steal from a Fur Stall?|35
+What Thieving level do you need to steal from a Gem Stall?|75
+What Thieving level do you need to steal from a Silver Stall?|50
 What Thieving level is required to pickpocket a Guard?|40
 What three ores does Doric ask you to bring him?|clay copper iron
 What town do you start in?|Lumbridge
-What town is on Karamja?(members)|Brimhaven
+What town is on Karamja?|Brimhaven
 What town is the helmet shop in?|barbarian village
 What town is the legs shop in?|Al Kharid
 What town is the mace shop in?|Falador
 What town is the shield shop in?|Falador
 What town is the skirt shop in?|Al Kharid
 What town is the staff shop in?|Varrock
+What two dyes are used to make green dye?|blue and yellow
+What two dyes are used to make orange dye?|red and yellow
+What two dyes used to make purple dye?|blue and red
 What two Mystic sets are sold in the Magic Guild?|blue and white
 What two places can you get a dusty key?|Legends guild and Taverly dungeon
 What two types of armour can any player wear, no matter what level?|bronze and iron
@@ -808,7 +788,7 @@ When you transfer a brand new RSC account to RS2, how many Hitpoints will you ha
 When you use a red firelighter on a log, it becomes a what?|Red Log
 Where can you buy a Dragon Battle Axe?|Heroes Guild
 Where can you buy iron legs other than Al Kharid?|Varrock
-Where can you find red worms|McGrubors Wood
+Where can you find Red Worms|McGrubors Wood
 Where can you find the chainmail shop?|Falador
 Where can you find white berries?|Red dragon lava lake
 Where can you steal silk from?|Ardougne
