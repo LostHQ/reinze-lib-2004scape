@@ -655,7 +655,6 @@ What Magic level do you need for Camelot Teleport?|45
 What Magic level do you need for Falador Teleport?|37
 What Magic level do you need for Varrock Teleport?|25
 What Magic level is needed to cast Charge spell?|80
-What Magic level is required for High Level Alchemy?|55
 What Magic level is required to cast High Level Alchemy?|55
 What Magic level is required to enter the Magic Guild?|66
 What Magic spell can you cast at 39 Magic?|crumble undead
