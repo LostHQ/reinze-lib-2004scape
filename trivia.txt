@@ -399,7 +399,7 @@ The character limit for RuneScape in-game chat is?|80
 The Dark Wizards near the Draynor willow trees are what level?|7
 To catch Lobsters, you need a ...?|lobster pot
 To smelt 100 Mithril Bars, how much Coal would you need?|400
-True or false: "Seaweed" is edible?|false
+True or false: "Seaweed" is edible.|false
 True or false: Burnt bones give more exp then normal bones when buried.|false
 True or false: Chainbodies are better against slash attacks than platebodies.|false
 True or false: Dragon weapons and armour can be smithed.|false
@@ -643,7 +643,7 @@ What level is a Highwayman?|5
 What level is a Hill Giant?|28
 What level is a Jungle Spider?|44
 What level is a Knight of Ardougne?|46
-What level is a Lesser Demon|82
+What level is a Lesser Demon?|82
 What level is a Man?|2
 What level is a Mugger?|10
 What level is a Rock Crab?|13
@@ -719,12 +719,12 @@ What quest rewards you with Oyster Pearls?|sea slug quest
 What Ranged level do you need to get into the Range Guild?|40
 What Ranged level is required to wear Ranger Boots?|40
 What Ranged level must you have in order to use a Dwarf Multicannon?|1
-What rune is required for alchemy spells|nature
+What rune is required for alchemy spells?|nature
 What rune is required for amulet enchantment spells?|cosmic
 What rune is required for blast spells?|death
-What rune is required for bolt spells|chaos
-What rune is required for curse spells|body
-What rune is required for strike spells|mind
+What rune is required for bolt spells?|chaos
+What rune is required for curse spells?|body
+What rune is required for strike spells?|mind
 What rune is required for teleport spells?|law
 What says this when you examine it "I doubt that was built to last..."?|heap of bricks
 What skill is above fishing on your stats menu?|smithing
@@ -763,12 +763,12 @@ What town is the staff shop in?|Varrock
 What two dyes are used to make green dye?|blue and yellow
 What two dyes are used to make orange dye?|red and yellow
 What two dyes used to make purple dye?|blue and red
-What two Mystic sets are sold in the Magic Guild?|blue and white
 What two places can you get a dusty key?|Legends guild and Taverly dungeon
-What two types of armour can any player wear, no matter what level?|bronze and iron
 What two types of bows can any player can use?|shortbow and longbow
+What two types of melee armour can any player wear, no matter what level?|bronze and iron
 What type of bow is needed to shoot mithril arrows?|willow
 What type of bow is needed to shoot rune arrows?|yew
+What type of robes are sold in the Magic Guild?|mystic
 What type of rune do you need for blast spells?|Death
 What type of rune do you need for strike spells?|Mind
 What type of tree can you cut at level 60 woodcutting?|Yew
@@ -788,24 +788,22 @@ When you transfer a brand new RSC account to RS2, how many Hitpoints will you ha
 When you use a red firelighter on a log, it becomes a what?|Red Log
 Where can you buy a Dragon Battle Axe?|Heroes Guild
 Where can you buy iron legs other than Al Kharid?|Varrock
-Where can you find Red Worms|McGrubors Wood
+Where can you find Red Worms?|McGrubors Wood
 Where can you find the chainmail shop?|Falador
-Where can you find white berries?|Red dragon lava lake
-Where can you steal silk from?|Ardougne
+Where can you find White Berries?|Red dragon isle
 Where did the Fountain of Heroes used to be in the Heroes Guild?|first floor
 Where do chocolate bars respawn?|Zanaris
 Where do tomatoes and cheese respawn?|Draynor
 Where do you buy halberds?|Isafdar
-Where do you charge an Amulet of Glory?|heroes guild
+Where do you charge an Amulet of Glory?|hero's guild
 Where do you go to Runecraft Law Runes?|Entrana
 Where do you need to be to charge a water orb?|water obelisk
 Where do you start the quest Imp Catcher?|Wizards Tower
 Where do you start the Tree Gnome Village quest?|tree gnome village
-Where does Ghorrok Teleport take you?|Level 45 Wilderness
 Where is Councillor Halgrive located at?|Ardougne
-Where is lucien after you complete the Temple of Ikov quest?|Ardougne Bar
-Where is rum sold?|Karamja
-Where is the apothecary?|Varrock
+Where is Lucien after you complete the Temple of Ikov quest?|Ardougne Bar
+Where is Rum sold?|Karamja
+Where is the Apothecary?|Varrock
 Where is the archery shop in the free worlds?|Varrock
 Where is the armor shop?|Varrock
 Where is the cooking range that decreases the burn rate located at?|Lumbridge Castle
@@ -815,36 +813,29 @@ Where is the members archery shop?|Catherby
 Where is the mining supplies shop?|Dwarven Mine
 Where is the only mace shop in 'RuneScape' located?|Falador
 Where is the only place Non-Members can fish for Lobsters?|Karamja
-Where would you find Jimmy the Chisel?|HAM Prison
-Where would you find Prison Pete?|evil bob's prison
-Which are the only Monsters that drop Dragon platelegs and Dragon plateskirt?|metal dragons
-Which armour is all red?|dragon
-Which cities bar sell mind bomb's?|Falador
-Which city has the sheep catcher quest in it?|Ardougne
+Which cities bar sell Wizard Mind Bombs?|Falador
+Which city has the Sheep Herder quest in it?|Ardougne
 Which hide do you need to make Leather?|Cow hide
-Which is the most expensive liquid in RuneScape?|half wine
-Which item used to be smithable but no longer is?|Pickaxe
+Which is the most expensive liquid in RuneScape?|Half full wine jug
+Which melee armour is all red?|dragon
 Which monster drops beads?|Imp
 Which party hat is currently the most expensive?|blue
 Which skill effects how hard you'll hit?|Strength
 Which skill effects how often you'll get hit?|Defence
 Which skill reflects how much health you have left?|Hitpoints
 Which skill took the longest for the first person to reach level 99?|Prayer
-Who can recharge your Crystal bow?|Ilfeen
+Which town can you steal silk from?|Ardougne
 Who can you buy rope from?|Ned
-Who changes cow hides for leather?|tanner
+Who changes Cow Hides into Leather?|tanner
 Who do you get Karamja rum for?|Redbeard Frank
-Who do you have to kill to acquire ice gloves?|ice queen
+Who do you have to kill to acquire Ice Gloves?|ice queen
 Who do you have to talk to to get into Al Kharid through the gate?|border guard
 Who do you need to talk to to start the Biohazard quest?|Elena
 Who do you need to talk to to start the Hero's quest?|Achietties
-Who do you pay to get into the Brimhaven dungeon?|Saniboch
-Who do you shear sheep for in the sheep shearing quest?|Farmer Fred
-Who do you talk to in the vampire quest?|Morgan
+Who do you shear sheep for in the Sheep Shearing quest?|Farmer Fred
+Who do you talk to in the Vampire Slayer quest?|Morgan
 Who do you talk to start the Shilo Village Quest?|Mosol
-Who do you talk to to start the Grand Tree quest|King Narnode Shareen
-Who do you trade in Castle Wars to buy the Decorative Armours?|Lanthus
-Who founded RuneScape?|Andrew Gower
+Who do you talk to to start the Grand Tree quest?|King Narnode Shareen
 Who has the first Silverlight key?|Sir Prysin
 Who has the second Silverlight key?|Captain Rovin
 Who has the third Silverlight key?|Wizard Traiborn
@@ -852,27 +843,25 @@ Who is believed to be Zamorak's son?|Iban
 Who is holding Prince Ali hostage in the Al Kharid Rescue quest?|Lady Keli
 Who is Iban?|Son of Zamorak
 Who is the Jagex cat?|Bob
-Who is the leader of the barbarians in barbarian village?|Gunthor the Brave
+Who is the leader of the barbarians in Barbarian Village?|Gunthor the Brave
 Who is the leader of the Black Arm Gang?|Katrine
 Who is the person who runs the toy store in Draynor Village?|diango
 Who is the Varrock Castle Librarian?|Reldo
 Who is the Wizard that dwells in the basement of the Wizards Tower?|sedridor
-Who owns RuneScape?|Jagex LTD
+Who owns RuneScape?|Jagex
 Who pilots the Lady Lumbridge for you?|Ned
+Who primarily created RuneScape?|Andrew Gower
 Who runs the banana plantation?|Luthas
+Who runs the Catherby archery store?|Hickton
 Who runs the Catherby fishing store?|Harry
 Who runs the eastern anvils and a small store in Varrock?|Horvik
-Who runs the members Archery Store|Hickton
-Who sells armor in Varrock?|Horvik
-Who sells rune plate mail?|Oziach
-Who sells woad leaves?|Wyson
+Who sells armour in Varrock?|Horvik
+Who sells Rune Platebody?|Oziach
+Who sells Woad Leaves?|Wyson
 Who sends the Black Demon after you in the Grand Tree Quest?|Glough
 Who turned Ernest into a chicken?|Mad Scientist
-Who will Enchant your battle staff for you?|Thormac
+Who will enchant your Battlestaff for you?|Thormac
 Who will give you a job at the Port Sarim food store?|Wydin
-Who will take your long bones?|Barlak
 You get gilded items from what?|Treasure trails
 You need how many pages to complete a God Prayer book?|4
-You need this type of charm if you plan on making a Terrorbird Pouch.|Gold
-You need to put tree seeds in a ____ before planting them.|Plant pot
-You would use what to grind a chocolate bar?|pestle and mortar
+You would use what to grind a Chocolate Bar?|pestle and mortar
